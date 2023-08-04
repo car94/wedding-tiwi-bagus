@@ -10,7 +10,7 @@ function WeddingSection({ isInvitation }) {
     return (
       <Fragment>
         <div className="col-md-8 col-md-offset-4">
-          <WeddingInfoBox title="Akad Nikah" time="08.00 WIB (Live di Instagram)" date="Sabtu, 03 Oktober 2020" />
+          <WeddingInfoBox title="Akad Nikah" time="07.30 WIB" date="Minggu, 03 September 2023" />
         </div>
         <ButtonLive />
       </Fragment>
@@ -36,14 +36,16 @@ function WeddingSection({ isInvitation }) {
                 <WeddingInfoBox
                   title="Akad Nikah"
                   time="Akan dilaksanakan pagi hari "
-                  date="Sabtu, 03 Oktober 2020"
-                  description="Orange Ballroom <br/>HARRIS Hotel Sentraland, Semarang"
+                  date="Minggu, 03 September 2023"
+                  description="Gedung PGSD, Kampus 3 Universitas Negeri Malang <br/>Jl. Ir. Soekarno No.1, Kepanjen Lor, Kec. Kepanjenkidul, Kota Blitar,
+                  Jawa Timur 66117"
                 />
                 <WeddingInfoBox
                   title="Syukuran Pernikahan"
                   time="Sesuai jadwal undangan di e-ticket "
-                  date="Sabtu, 03 Oktober 2020"
-                  description="Orange Ballroom <br/>HARRIS Hotel Sentraland, Semarang"
+                  date="Minggu, 03 September 2023"
+                  description="Gedung PGSD, Kampus 3 Universitas Negeri Malang <br/>Jl. Ir. Soekarno No.1, Kepanjen Lor, Kec. Kepanjenkidul, Kota Blitar,
+                  Jawa Timur 66117"
                 />
               </div>
             )}

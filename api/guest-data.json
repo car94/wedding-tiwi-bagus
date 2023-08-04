@@ -1,2796 +1,852 @@
 [
   {
-    "code": "DXI-0001",
-    "name": "Suharyo",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 1,
+    "name": "Sani Suwarji Family",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0002",
-    "name": "Heru Setyabudi",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 2,
+    "name": "Bude Mar Sekeluarga",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0003",
-    "name": "Doni Widiyanto",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 3,
+    "name": "Mbak Niken Sekeluarga",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0004",
-    "name": "Bu Edi Susanto",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 4,
+    "name": "Mbak Ria Sekeluarga",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0005",
-    "name": "Hermawan",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 5,
+    "name": "Mas Danang Sekeluarga",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0006",
-    "name": "Budijono",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 6,
+    "name": "Mas Arif Sekeluarga",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0007",
-    "name": "Hanif",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 7,
+    "name": "Mbak Andri Sekeluarga",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0008",
-    "name": "Adi Wiratama",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 8,
+    "name": "Mbak Sari",
+    "desc": "Dena"
   },
   {
-    "code": "DXI-0009",
-    "name": "Hendro",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 9,
+    "name": "Bude Rima dan Hasma",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0010",
-    "name": "Santoso",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 10,
+    "name": "Ami Sekeluarga",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0011",
-    "name": "Yori",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 11,
+    "name": "Om Yoyok Sekeluarga",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0012",
-    "name": "Chandra",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 12,
+    "name": "Andri Sekeluarga",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0013",
-    "name": "Ali Muhtarom",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 13,
+    "name": "Riyan Sekeluarga",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0014",
-    "name": "Sagimin",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 14,
+    "name": "Tante Muja Sekeluarga",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0015",
-    "name": "Suwardi",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 15,
+    "name": "Mutia Sekeluarga",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0016",
-    "name": "Kasmari",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 16,
+    "name": "Wilma Sekeluarga",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0017",
-    "name": "Mawardi",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 17,
+    "name": "Tante Eni Sekeluarga",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0018",
-    "name": "Ricky",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 18,
+    "name": "Tante Suspani Sekeluarga",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0019",
-    "name": "Djaman",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 19,
+    "name": "Tante Wiwi Sekeluarga",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0020",
-    "name": "Steven",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 20,
+    "name": "Pakde Pri Sekeluarga",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0021",
-    "name": "Arif",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 21,
+    "name": "Eyang Ami Sekleuarga",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0022",
-    "name": "Sukahar",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 22,
+    "name": "Mbak Kristya Sekeluarga",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0023",
-    "name": "Yunianto",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 23,
+    "name": "Om Agus Sekeluarga",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0024",
-    "name": "Bambang P",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 24,
+    "name": "Om Cahyo Sekeluarga",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0025",
-    "name": "Andi K",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 25,
+    "name": "Om Kikin Sekeluarga",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0026",
-    "name": "Sutarman",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 26,
+    "name": "Om Nuri Sekeluarga",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0027",
-    "name": "Danang A",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 27,
+    "name": "Safira Sekeluarga",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0028",
-    "name": "Murtono",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 28,
+    "name": "Teman - Teman SDN Slorok 01",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0029",
-    "name": "Agung",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 29,
+    "name": "Kak Ata",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0031",
-    "name": "Solekhan",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 30,
+    "name": "Mas Nando",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0032",
-    "name": "Sugeng",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 31,
+    "name": "Mbak Agnis",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0033",
-    "name": "Bu Linda",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 32,
+    "name": "Kak Ela",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0034",
-    "name": "Bu Mia",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 33,
+    "name": "Mas Nova & Mbak Mita",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0035",
-    "name": "Bu Suwoko",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 34,
+    "name": "Kak Begra & Kak Widi",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0036",
-    "name": "Ari Muchtar",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 35,
+    "name": "Mbak Wulan",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0037",
-    "name": "Bu Kamto",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 36,
+    "name": "Mbak Asri",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0038",
-    "name": "Bu Aryani",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 37,
+    "name": "Ufi",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0039",
-    "name": "Bu Trisia",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 38,
+    "name": "Mas Dendi & Keluarga",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0040",
-    "name": "Halim",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 39,
+    "name": "Mbak Rini Fahmita",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0041",
-    "name": "Andi P",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 40,
+    "name": "Mbak Dila",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0042",
-    "name": "Sapari",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 41,
+    "name": "Mbak Uni",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0043",
-    "name": "Agus",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "code": 42,
+    "name": "Mbak Theo",
+    "desc": "Undangan Tiwi"
   },
   {
-    "code": "DXI-0045",
+    "code": 43,
+    "name": "Mbak Mia",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 44,
+    "name": "Angger",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 45,
+    "name": "Bagas",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 46,
+    "name": "Krismala",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 47,
+    "name": "Lutfi",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 48,
+    "name": "Della",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 49,
+    "name": "Mauzudah & Keluarga",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 50,
+    "name": "Rohman",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 51,
+    "name": "Clara",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 52,
+    "name": "Evi",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 53,
+    "name": "Intan",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 54,
+    "name": "Masna",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 55,
+    "name": "Udin",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 56,
+    "name": "Sony",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 57,
+    "name": "Mbak Lita",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 58,
+    "name": "Mas Febri",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 59,
+    "name": "Mas Coyo",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 60,
+    "name": "Mbak Dita",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 61,
+    "name": "Mbak Tika Morena",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 62,
+    "name": "Keluarga Manyar",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 63,
+    "name": "Intan & Keluarga",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 64,
+    "name": "Mbak Vina",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 65,
+    "name": "Mbak Vita",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 66,
+    "name": "Ayu",
+    "desc": "Azmi dan Azriel"
+  },
+  {
+    "code": 67,
+    "name": "Mbak Nita & Keluarga",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 68,
+    "name": "Mbak Dwi & Keluarga",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 69,
+    "name": "Mas Imbang & Keluarga",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 70,
+    "name": "Mas Jonathan & Keluarga",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 71,
+    "name": "Majid",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 72,
+    "name": "Farel",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 73,
+    "name": "Pak Tarno & Keluarga",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 74,
+    "name": "Mbak Peni",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 75,
+    "name": "Pikek Rolianti Nasution",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 76,
+    "name": "Nadia Syifa",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 77,
+    "name": "Nanda",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 78,
+    "name": "Windy",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 79,
+    "name": "Mas Kahfi & Keluarga",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 80,
+    "name": "Mas Dito & Keluarga",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 81,
+    "name": "Keval",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 82,
+    "name": "Tory",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 83,
+    "name": "CPNS LEMIGAS 2022",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 84,
+    "name": "PB ESDM",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 85,
+    "name": "Kelompok III Latsar ESDM",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 86,
+    "name": "Mas Didi",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 87,
+    "name": "Mas Taslim",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 88,
+    "name": "Mas Rikzan",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 89,
+    "name": "Mas Hanief",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 90,
+    "name": "Radya Aulia Rahman",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 91,
+    "name": "Bella",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 92,
     "name": "Yuli",
-    "desc": "Singa Tengah, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0046",
-    "name": "Medi",
-    "desc": "Singa Tengah, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0047",
-    "name": "Agung A",
-    "desc": "Singa Tengah, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0048",
-    "name": "Agung B",
-    "desc": "Singa Tengah, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0049",
-    "name": "Totok",
-    "desc": "Singa Tengah, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0050",
-    "name": "Sutaryo",
-    "desc": "Singa Tengah, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0051",
-    "name": "Zaenuri",
-    "desc": "Singa Tengah, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0052",
-    "name": "Supriyadi",
-    "desc": "Singa Tengah, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0053",
-    "name": "Sukardi",
-    "desc": "Singa Tengah, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0054",
-    "name": "VIP - Asep Misbahudin",
-    "desc": "PZ Cussons",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0055",
-    "name": "Atmaja Belawan",
-    "desc": "PZ Cussons",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0057",
-    "name": "VIP - Dwi Sansito",
-    "desc": "PZ Cussons",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0058",
-    "name": "VIP - Mujianto",
-    "desc": "PZ Cussons",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0059",
-    "name": "VIP - M. Achsin Hamim",
-    "desc": "PZ Cussons",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0060",
-    "name": "VIP - Moh. Atiq Sajaya",
-    "desc": "PZ Cussons",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0061",
-    "name": "VIP - Puguh Kunto Asmoro",
-    "desc": "PZ Cussons",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0062",
-    "name": "VIP - Prastiyo Edy Laksono",
-    "desc": "PZ Cussons",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0063",
-    "name": "VIP - Priyatno",
-    "desc": "PZ Cussons",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0064",
-    "name": "VIP - Pringadi",
-    "desc": "PZ Cussons",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0065",
-    "name": "VIP - Suyanto",
-    "desc": "PZ Cussons",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0066",
-    "name": "VIP - Suratno",
-    "desc": "PZ Cussons",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0067",
-    "name": "VIP - Sigit Wijayanto",
-    "desc": "PZ Cussons",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0068",
-    "name": "VIP - Wiwik Joeniati",
-    "desc": "PZ Cussons",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0069",
-    "name": "VIP - Yudha Prihantono",
-    "desc": "PZ Cussons",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0078",
-    "name": "Pramono",
-    "desc": "Semarang",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0079",
-    "name": "Sri Vatmawati",
-    "desc": "Semarang",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0080",
-    "name": "VIP - Setiawan",
-    "desc": "Semarang",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0081",
-    "name": "Slamet Santoso",
-    "desc": "Semarang",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0082",
-    "name": "Sudono",
-    "desc": "Semarang",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0083",
-    "name": "Tatik",
-    "desc": "Semarang",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0085",
-    "name": "Tri Utami",
-    "desc": "Semarang",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0087",
-    "name": "VIP - Bintoro Mantjolo Putro",
-    "desc": "Yogyakarta",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0089",
-    "name": "Cahyono",
-    "desc": "Tegal",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0090",
-    "name": "Bu Hermanto",
-    "desc": "Tegal",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0091",
-    "name": "Ivana",
-    "desc": "Tegal",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0092",
-    "name": "Hertanto",
-    "desc": "Pati",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0094",
-    "name": "VIP - Makmur Trisujadi",
-    "desc": "Magelang",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0095",
-    "name": "Sugeng",
-    "desc": "Gubug",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0096",
-    "name": "Toto Mulyanto",
-    "desc": "Muntilan",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0097",
-    "name": "VIP - Arif Mustapin",
-    "desc": "Sidoarjo",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0099",
-    "name": "Yohanes",
-    "desc": "Solo",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0100",
-    "name": "Nita Syarifah & Keluarga",
-    "desc": "Sahabat Dinda",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0101",
-    "name": "Risalatul Muawanah & Keluarga",
-    "desc": "Sahabat Dinda",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0102",
-    "name": "Hapsari Anggraini & Keluarga",
-    "desc": "Sahabat Dinda",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0103",
-    "name": "Moleta Tiara & Keluarga",
-    "desc": "Sahabat Dinda",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0104",
-    "name": "Vela Hafira",
-    "desc": "Sahabat Dinda",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0105",
-    "name": "Iqmalifa & Iqmalia",
-    "desc": "Sahabat Dinda",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0106",
-    "name": "Pramudina & Pramudita",
-    "desc": "Sahabat Dinda",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0107",
-    "name": "Rhonandiarto Kalimaya",
-    "desc": "Sahabat Dinda",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0108",
-    "name": "Dodie Ammar Burhan",
-    "desc": "Sahabat Dinda",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0109",
-    "name": "Fitria Ayunisa",
-    "desc": "Sahabat Dinda",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0110",
-    "name": "Alvia Tri Lestari",
-    "desc": "Sahabat Dinda",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0111",
-    "name": "Oei Yunias Belda",
-    "desc": "Sahabat Dinda",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0112",
-    "name": "Ghea Maurizka",
-    "desc": "Sahabat Dinda",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0113",
-    "name": "Jennyka Setiawan",
-    "desc": "Sahabat Dinda",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0114",
-    "name": "Linda Yunitasari",
-    "desc": "Sahabat Dinda",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0115",
-    "name": "Selviana Nur Hidayah",
-    "desc": "Sahabat Dinda",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0116",
-    "name": "Dhyanara Novi Paramita",
-    "desc": "Hikayat NET TV",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0117",
-    "name": "Syifa Fatimah",
-    "desc": "UDINUS",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0118",
-    "name": "Wulan Herdiningsih & Puds",
-    "desc": "Ruangguru",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0119",
-    "name": "Fahry Maulana",
-    "desc": "Hore Heroes",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0120",
-    "name": "Ahlan Firdaus",
-    "desc": "Hore Heroes",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0121",
-    "name": "Madina Tashya",
-    "desc": "Hore Heroes",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0122",
-    "name": "Sauhtirani",
-    "desc": "Hore Heroes",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0123",
-    "name": "Basanta & Binarky",
-    "desc": "Hore Heroes",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0124",
-    "name": "Maria & Yoga",
-    "desc": "Amareea",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0125",
-    "name": "Sandi Mumu, Istri & Anak (2)",
-    "desc": "Hikayat NET TV",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0126",
-    "name": "Yasinta Aulia",
-    "desc": "Dompet Dhuafa",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0127",
-    "name": "Atin Anggraeni",
-    "desc": "Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0128",
-    "name": "VIP - Priyo",
-    "desc": "Gmedia",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0129",
-    "name": "VIP - Atalia Citra",
-    "desc": "Gmedia",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0130",
-    "name": "Zakiy Anwar Fakhri",
-    "desc": "Sahabat Indra",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0131",
-    "name": "Alif Maulana Putra",
-    "desc": "UDINUS",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0135",
-    "name": "Marice Elisabeth (+ Ario Arzaq) & Devi Setyawati",
-    "desc": "UDINUS",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0136",
-    "name": "Amelia Cahyaningtyas",
-    "desc": "UDINUS",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0137",
-    "name": "Christoporus Kurnia Chandra",
-    "desc": "UDINUS",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0138",
-    "name": "Luthfi Faizal Noor",
-    "desc": "UDINUS",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0139",
-    "name": "Meisy Cahyani",
-    "desc": "SMP PAPB",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0140",
-    "name": "Lita Ardita",
-    "desc": "SMP PAPB",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0141",
-    "name": "Riska Miranda",
-    "desc": "SMP PAPB",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0142",
-    "name": "Annisa PA",
-    "desc": "SMP PAPB",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0144",
-    "name": "Attidhira Citra",
-    "desc": "SMP PAPB",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0146",
-    "name": "Fenadia Nastia",
-    "desc": "SMP PAPB",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0147",
-    "name": "Vidianne Anggria",
-    "desc": "SMA 11 Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0148",
-    "name": "Cerelia Alvita",
-    "desc": "SMA 11 Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0149",
-    "name": "Annis Puspita",
-    "desc": "SMA 11 Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0153",
-    "name": "Della Kartika",
-    "desc": "SMA 11 Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0154",
-    "name": "Budi Purwanto",
-    "desc": "Saudara Dinda - Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0155",
-    "name": "Agung Widodo",
-    "desc": "Saudara Dinda - Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0156",
-    "name": "Paklek Suhono & Keluarga",
-    "desc": "Saudara Dinda - Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0157",
-    "name": "Mbah Siti Manan & Keluarga",
-    "desc": "Saudara Dinda - Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0159",
-    "name": "Bulek Umiyati & Keluarga",
-    "desc": "Saudara Dinda - Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0160",
-    "name": "Mas Udin & Keluarga",
-    "desc": "Saudara Dinda - Semarang",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0161",
-    "name": "Ibu Siswandi & Keluarga",
-    "desc": "Saudara Dinda - Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0162",
-    "name": "Mbak Yuli & Keluarga",
-    "desc": "Saudara Dinda - Yogyakarta",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0163",
-    "name": "Mas Yoyok & Keluarga",
-    "desc": "Saudara Dinda - Yogyakarta",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0164",
-    "name": "Mbak Emi & Keluarga",
-    "desc": "Saudara Dinda - Yogyakarta",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0165",
-    "name": "Mbak Sri & Keluarga",
-    "desc": "Saudara Dinda - Sidoarjo",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0166",
-    "name": "Mbak Titik & Keluarga",
-    "desc": "Saudara Dinda - Yogyakarta",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0167",
-    "name": "Mas Agus Sapen & Keluarga",
-    "desc": "Saudara Dinda - Yogyakarta",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0168",
-    "name": "Dek Wita & Keluarga",
-    "desc": "Saudara Dinda - Yogyakarta",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0169",
-    "name": "Bulek Tatik & Keluarga",
-    "desc": "Saudara Dinda - Semarang",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0170",
-    "name": "Dek Tanti & Keluarga",
-    "desc": "Saudara Dinda - Jepara",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0171",
-    "name": "Paklek Hermanto & Keluarga",
-    "desc": "Saudara Dinda - Dlanggu",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0172",
-    "name": "Pakdhe Supri",
-    "desc": "Saudara Indra - Kendal",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0173",
-    "name": "Saudara Indra 1",
-    "desc": "Saudara Indra - Kendal",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0174",
-    "name": "Saudara Indra 2",
-    "desc": "Saudara Indra - Kendal",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0175",
-    "name": "Saudara Indra 3",
-    "desc": "Saudara Indra - Kendal",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0176",
-    "name": "Saudara Indra 4",
-    "desc": "Saudara Indra - Kendal",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0177",
-    "name": "Saudara Indra 5",
-    "desc": "Saudara Indra - Kendal",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0178",
-    "name": "VIP - Agus Murdianto",
-    "desc": "Bandung",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0179",
-    "name": "Pri",
-    "desc": "Singa Tengah, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0180",
-    "name": "Darsono",
-    "desc": "Singa Tengah, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0181",
-    "name": "Solikin",
-    "desc": "Singa Tengah, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0182",
-    "name": "Ansila Putri & Bogie Tomy",
-    "desc": "UDINUS",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0183",
-    "name": "Tasya Patria & Yesi Ayusta",
-    "desc": "UDINUS",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0184",
-    "name": "Nawang Sandewi & Aulia Aristiana",
-    "desc": "Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0185",
-    "name": "Irin Riany",
-    "desc": "TVRI",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0186",
-    "name": "Oong Fatonah",
-    "desc": "Tegal",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0188",
-    "name": "Niken Hapsari",
-    "desc": "UDINUS",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0189",
-    "name": "Roni Yanuar",
-    "desc": "UDINUS",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0190",
-    "name": "Budhe Nanik & Keluarga",
-    "desc": "Saudara Dinda - Yogyakarta",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0191",
-    "name": "Bulek Tutik & Keluarga",
-    "desc": "Saudara Dinda - Yogyakarta",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0192",
-    "name": "Om Totok & Keluarga",
-    "desc": "Saudara Dinda - Yogyakarta",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0193",
-    "name": "Om Tomi & Keluarga",
-    "desc": "Saudara Dinda - Yogyakarta",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0194",
-    "name": "Bulek Yanti & Keluarga",
-    "desc": "Saudara Dinda - Yogyakarta",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0195",
-    "name": "VIP - Rasuna Agusman",
-    "desc": "PZ Cussons",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0196",
-    "name": "Punjung",
-    "desc": "Semarang",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0197",
-    "name": "Dwi Joko Daryono",
-    "desc": "Semarang",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0198",
-    "name": "Joko Hermawan",
-    "desc": "Kendal",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0199",
-    "name": "VIP - Arieswanto",
-    "desc": "Semarang",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0200",
-    "name": "VIP - Budi Sanyoto",
-    "desc": "Jakarta",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0201",
-    "name": "Moch. Syakban",
-    "desc": "Semarang",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0202",
-    "name": "VIP - Ondhie",
-    "desc": "PZ Cussons",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0203",
-    "name": "VIP - Robin",
-    "desc": "PZ Cussons",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0204",
-    "name": "Dani",
-    "desc": "Semarang",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0205",
-    "name": "Nur Cholim",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0206",
-    "name": "Mulyadi",
-    "desc": "Jalan Singa, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0207",
-    "name": "Mardi",
-    "desc": "Singa Tengah, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0208",
-    "name": "Budi",
-    "desc": "Singa Tengah, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0209",
-    "name": "Sukendro",
-    "desc": "Singa Tengah, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0210",
-    "name": "Tini",
-    "desc": "Singa Tengah, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0213",
-    "name": "Maryati",
-    "desc": "Semarang",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0214",
-    "name": "Suroso",
-    "desc": "Kauman Barat, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0215",
-    "name": "Ingka",
-    "desc": "Kauman Barat, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0216",
-    "name": "Ruswanto",
-    "desc": "Kauman Barat, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0217",
-    "name": "Yudi",
-    "desc": "Kauman Barat, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0218",
-    "name": "Sugueng",
-    "desc": "Kauman Barat, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0219",
-    "name": "Parno",
-    "desc": "Kauman Barat, Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0220",
-    "name": "Budi & Keluarga",
-    "desc": "Saudara Dinda - Yogyakarta",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0221",
-    "name": "Betri & Keluarga",
-    "desc": "Saudara Dinda - Yogyakarta",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0222",
-    "name": "Wiwik & Keluarga",
-    "desc": "Saudara Dinda - Yogyakarta",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0223",
-    "name": "Rizal",
-    "desc": "PZ Cussons",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0224",
-    "name": "VIP - Elbi",
-    "desc": "PZ Cussons",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0225",
-    "name": "Sudarto",
-    "desc": "Semarang",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0226",
-    "name": "Widartono",
-    "desc": "Yogyakarta",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0227",
-    "name": "Alifa Ghaisani",
-    "desc": "Hore Heroes",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0228",
-    "name": "Nadia Kumala Devi",
-    "desc": "Hore Heroes",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0229",
-    "name": "Arinda Dea & Mega Ayu",
-    "desc": "Hore Heroes",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0230",
-    "name": "Yuni Devi",
-    "desc": "Hore Heroes",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0231",
-    "name": "Fadhila & Rifaldi",
-    "desc": "Hore Heroes",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0232",
-    "name": "Dimas Helmi & Taufiqy Seno",
-    "desc": "Hore Heroes",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0233",
-    "name": "Fardian & Hafit",
-    "desc": "Hore Heroes",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0234",
-    "name": "Ratna Lestari & Dinda Fauziah",
-    "desc": "Hore Heroes",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0235",
-    "name": "Singgih",
-    "desc": "Hore Heroes",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0236",
-    "name": "Maricha & Al Ghalib",
-    "desc": "UDINUS",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0237",
-    "name": "Pipid Setya",
-    "desc": "UDINUS",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0241",
-    "name": "Sabila Ilham Bimantara",
-    "desc": "UDINUS",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0242",
-    "name": "Rama",
-    "desc": "UDINUS",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0243",
-    "name": "Ivan",
-    "desc": "UDINUS",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0244",
-    "name": "Tias Nur Hidayah",
-    "desc": "UDINUS",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0246",
-    "name": "Nurla Jannata",
-    "desc": "UDINUS",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0248",
-    "name": "Fika Aprilia",
-    "desc": "UDINUS",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0251",
-    "name": "Apsari Retno",
-    "desc": "Hikayat NET TV",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0252",
-    "name": "Dewi",
-    "desc": "Hikayat NET TV",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0253",
-    "name": "Hajar Nuris Sofa",
-    "desc": "Dompet Dhuafa",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0255",
-    "name": "VIP - Ibu Erika Devi Udayanti",
-    "desc": "Dosen UDINUS",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0256",
-    "name": "VIP - Ibu Etika Kartikadarma",
-    "desc": "Dosen UDINUS",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0257",
-    "name": "VIP - Bapak Rindra Yusianto",
-    "desc": "Dosen UDINUS",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0258",
-    "name": "VIP - Ibu Amida Yusriana",
-    "desc": "Dosen UDINUS",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0259",
-    "name": "VIP - Ibu Devi Purnamasari",
-    "desc": "Dosen UDINUS",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0260",
-    "name": "VIP - Ibu Mukaromah",
-    "desc": "Dosen UDINUS",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0261",
-    "name": "VIP - Mrs. Cinantya Paramita",
-    "desc": "Dosen UDINUS",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0262",
-    "name": "VIP - Bapak Pulung Nurtantio Andono",
-    "desc": "Dosen UDINUS",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0263",
-    "name": "Tanjung",
-    "desc": "Semarang",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0264",
-    "name": "Danu",
-    "desc": "Semarang",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0265",
-    "name": "Eko Sukoco",
-    "desc": "Semarang",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0266",
-    "name": "Jubedi",
-    "desc": "Salatiga",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0267",
-    "name": "Jamaludin",
-    "desc": "Semarang",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0268",
-    "name": "Sutrisno",
-    "desc": "Semarang",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0269",
-    "name": "Riema Maristella",
-    "desc": "Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0270",
-    "name": "Haris Yuliyanto",
-    "desc": "UDINUS",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0271",
-    "name": "Hengky Widiantoro",
-    "desc": "UDINUS",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0272",
-    "name": "Dhia Ayu & Akhadila Bayu",
-    "desc": "UDINUS",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0273",
-    "name": "Dhiyas Mareda",
-    "desc": "Hore Heroes",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0274",
-    "name": "Reny Dwi",
-    "desc": "Hore Heroes",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0275",
-    "name": "Nabila Hanum",
-    "desc": "Hore Heroes",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0276",
-    "name": "Herlin",
-    "desc": "Hore Heroes",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0277",
-    "name": "Maura Savira",
-    "desc": "Hore Heroes",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0278",
-    "name": "Dian Octaviana",
-    "desc": "Hore Heroes",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0279",
-    "name": "Amalia KW",
-    "desc": "Hore Heroes",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0280",
-    "name": "Nastiti Silvananda",
-    "desc": "Hore Heroes",
-    "shift": 2,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0281",
-    "name": "Almalina Nabila",
-    "desc": "Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0282",
-    "name": "Abdul Ghofar",
-    "desc": "Sahabat Indra",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0283",
-    "name": "Milatina NH",
-    "desc": "Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0284",
-    "name": "VIP - Ibu Mutia Rahmi Pratiwi",
-    "desc": "Dosen UDINUS",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0285",
-    "name": "VIP - Bapak Ajib Susanto",
-    "desc": "Dosen UDINUS",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0286",
-    "name": "Bulek Ida & Keluarga",
-    "desc": "Saudara Dinda - Semarang",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0287",
-    "name": "Mayumi Kris G",
-    "desc": "SMP PAPB",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0288",
-    "name": "Yumna Setia",
-    "desc": "SMP PAPB",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0289",
-    "name": "Mochammad Sholihin (Emsho)",
-    "desc": "Hikayat NET TV",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
-  },
-  {
-    "code": "DXI-0290",
-    "name": "Novan & Dika",
-    "desc": "Saudara Indra - Kendal",
-    "shift": 1,
-    "isAttended": "",
-    "updatedBy": "",
-    "isExchanged": "",
-    "exchangedAt": "",
-    "exchangedBy": ""
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 93,
+    "name": "Ajik",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 94,
+    "name": "Rendra WS",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 95,
+    "name": "Carel",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 96,
+    "name": "PT. Rizqu Tirta Swastika",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 97,
+    "name": "SDN Simokerto",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 98,
+    "name": "SMA 1 Surabaya",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 99,
+    "name": "FK UB '86",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 100,
+    "name": "Puskesmas Doko",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 101,
+    "name": "Puskesmas Selopuro",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 102,
+    "name": "Puskesmas Nglegok",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 103,
+    "name": "Tante Andri Sekeluarga",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 104,
+    "name": "Aan Saputra",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 105,
+    "name": "Abyan Abdan",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 106,
+    "name": "Adniwan Shubhi Banuzaki",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 107,
+    "name": "Afrina Septantia",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 108,
+    "name": "Almira Fahmi Addjie",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 109,
+    "name": "Amel & Fathi",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 110,
+    "name": "Arif Muchlisin",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 111,
+    "name": "Bella Agus Sasmita",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 112,
+    "name": "Berli Sahala Simorangkir",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 113,
+    "name": "Cendi Diar Permata Dana",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 114,
+    "name": "Dhamar Qurnia Setyadi",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 115,
+    "name": "Fauzy Habibie Akhyar",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 116,
+    "name": "Ganang Ikhwanushova",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 117,
+    "name": "Hitznaiti Zaidini' Khul Husna",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 118,
+    "name": "I Gusti Ngurah Kusuma Wijaya",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 119,
+    "name": "Ilham Ilmawan",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 120,
+    "name": "Khoirul Haq Nurul Rohman",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 121,
+    "name": "Kwan",
+    "desc": "William Kurniawan"
+  },
+  {
+    "code": 122,
+    "name": "Lu'Lu' Atul Choiriyah",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 123,
+    "name": "Lutfi Haritsah",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 124,
+    "name": "Magdalena Ari Tifani",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 125,
+    "name": "Marcelinus Febbi Arismara",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 126,
+    "name": "Muhammad Firdaus Rafqi",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 127,
+    "name": "Nadya Ziyadati Salsabila",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 128,
+    "name": "Pungky Nurhayati",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 129,
+    "name": "Rahajeng Ardinni Noor",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 130,
+    "name": "Rayhan Alghifari",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 131,
+    "name": "Rifqi Abbas",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 132,
+    "name": "Rizka Manzilatun Ni'mah",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 133,
+    "name": "Rizki Nanda",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 134,
+    "name": "Rofiq Nur Arif Hidayat",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 135,
+    "name": "Selma Kurniawati",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 136,
+    "name": "Septa Fariza Mahandani",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 137,
+    "name": "Sistien Adhaena Sari",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 138,
+    "name": "Trihandy Cahyo Saputro",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 139,
+    "name": "Yazid Abdurazzaq Setyowiyoto",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 140,
+    "name": "Aditya Hirawan",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 141,
+    "name": "Teknik Geologi UGM Angkatan 2014",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 142,
+    "name": "Kapala Magmagama Angkatan 24",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 143,
+    "name": "Rini Famita",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 144,
+    "name": "Pak Agung Harijoko & Keluarga",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 145,
+    "name": "Pak Ferian Anggara & Keluarga",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 146,
+    "name": "Pak Haryo Edi Wibowo & Keluarga",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 147,
+    "name": "Pak Nugroho Imam Setiawan & Keluarga",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 148,
+    "name": "Pak Sugeng Sapto S. & Keluarga",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 149,
+    "name": "Pak Salahudin Husein & Keluarga",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 150,
+    "name": "Pak Jarot Setyowiyoto & Keluarga",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 151,
+    "name": "Mbak Raeni & Keluarga",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 152,
+    "name": "Mbak Rena Juwita",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 153,
+    "name": "Tim Bulutangkis PORNAS XVI ESDM",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 154,
+    "name": "Urwatul Wusqo",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 155,
+    "name": "Rudianto",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 156,
+    "name": "Adel",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 157,
+    "name": "Dela",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 158,
+    "name": "Erlangga",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 159,
+    "name": "Mbak Bivi",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 160,
+    "name": "Mbak Vindi",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 161,
+    "name": "Mbak Vicky",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 162,
+    "name": "Mas Aan Sekeluarga",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 163,
+    "name": "Mbah Prih Sekeluarga",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 164,
+    "name": "Mas Adi Sekeluarga",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 165,
+    "name": "Anjeli dan Akner",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 166,
+    "name": "Mbak Dian Sekeluarga",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 167,
+    "name": "Om Bayu Sekeluarga",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 168,
+    "name": "Mbak Lia",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 169,
+    "name": "Mas Adit",
+    "desc": "Undangan Tiwi"
+  },
+  {
+    "code": 170,
+    "name": "Rekan - Rekan Alumni Kyushu University",
+    "desc": "Undangan Tiwi"
   }
 ]
