@@ -59,12 +59,6 @@ function GenerateLink() {
     if (type === ALL) {
       return (
         <Fragment>
-          <div class="checkbox">
-            <label>
-              <input type="checkbox" checked={isInvitation} onClick={() => setIsInvitation(!isInvitation)} /> Tipe
-              Invitation (Datang offline)
-            </label>
-          </div>
           <button type="submit" class="btn btn-primary" onClick={() => setShowResult(true)}>
             Generate Link
           </button>

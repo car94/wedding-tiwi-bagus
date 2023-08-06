@@ -5,18 +5,7 @@ import WeddingInfoBox from './WeddingInfoBox';
 import ButtonLive from './ButtonLive';
 import { styWrapper } from './styles';
 
-function WeddingSection({ isInvitation }) {
-  const renderGuestInfo = () => {
-    return (
-      <Fragment>
-        <div className="col-md-8 col-md-offset-4">
-          <WeddingInfoBox title="Akad Nikah" time="07.30 WIB" date="Minggu, 03 September 2023" />
-        </div>
-        <ButtonLive />
-      </Fragment>
-    );
-  };
-
+function WeddingSection() {
   return (
     <Fragment>
       <div id="fh5co-event" css={styWrapper}>
@@ -30,25 +19,23 @@ function WeddingSection({ isInvitation }) {
             </div>
           </div>
           <div className="row">
-            {!isInvitation && renderGuestInfo()}
-            {isInvitation && (
               <div className="col-md-10 col-md-offset-1">
                 <WeddingInfoBox
                   title="Akad Nikah"
-                  time="Akan dilaksanakan pagi hari "
+                  time="07.30 WIB"
                   date="Minggu, 03 September 2023"
                   description="Gedung PGSD, Kampus 3 Universitas Negeri Malang <br/>Jl. Ir. Soekarno No.1, Kepanjen Lor, Kec. Kepanjenkidul, Kota Blitar,
                   Jawa Timur 66117"
                 />
                 <WeddingInfoBox
                   title="Syukuran Pernikahan"
-                  time="Sesuai jadwal undangan di e-ticket "
+                  time="12.00 - 14.00 WIB"
                   date="Minggu, 03 September 2023"
                   description="Gedung PGSD, Kampus 3 Universitas Negeri Malang <br/>Jl. Ir. Soekarno No.1, Kepanjen Lor, Kec. Kepanjenkidul, Kota Blitar,
                   Jawa Timur 66117"
                 />
+                <ButtonLive />
               </div>
-            )}
           </div>
         </div>
       </div>
