@@ -1,11 +1,3 @@
-import Nita from '@assets/images/w-nita.jpg';
-import Zakiy from '@assets/images/w-zakiy.jpg';
-import Moletta from '@assets/images/w-moletta.jpg';
-import hapsari from '@assets/images/w-hapsari.jpg';
-import dianara from '@assets/images/w-dianara.jpg';
-import rahma from '@assets/images/w-rahma.jpg';
-import vela from '@assets/images/w-vela.jpg';
-import iqmala from '@assets/images/w-iqmala.jpg';
 import man from './assets/user.png';
 import ihsan from './assets/w-ihsan.jpg';
 import fajar from './assets/w-fajar.jpg';
@@ -29,7 +21,6 @@ export const wishlist = [
     name: 'Nita Syarifah',
     infoName: 'Sahabat SMP Dinda',
     description: `selamat menempuh hidup baru dinda dan mas indra semoga menjadi pasangan teman hidup selamanya sesurga, enjoy your little family always be happy my sweet couple!🥰🤗 amin`,
-    image: Nita,
   },
   {
     name: 'Ihsan Satriawan',
@@ -41,7 +32,6 @@ export const wishlist = [
     name: 'Zakiy Anwar Fahri',
     infoName: 'Sahabat Dinda & Indra',
     description: `Hai Indra & Dinda, sebelum nya aku ucapin selamat akhirnya mencapai pernikahan. Semoga pernikahannya lancar dan menjadi keluarga sakinah mawahdah warahmah. Sebagai sahabat mu sejak awal kuliah kita berjuang bersama dan akhirnya sampai titik ini aku seneng banget kamu bisa menggapai cita-cita mu pelan-pelan, setelah ini kamu akan memulai perjalan dengan seorang yang akan lebih setia dari Sahabat yaitu Istri (Dinda), tetep sabar dan setia ya Ndra. Nahh, untuk Dinda bantu sahabat ku semakin baik ya hehe. :D`,
-    image: Zakiy,
   },
   {
     name: 'Risalatul Muawanah',
@@ -62,14 +52,12 @@ export const wishlist = [
     Setelah ini hal yang kalian impikan akan terwujud 
     Terus menjadi pasangan yang dapat menginspirasi semua orang Dinda dan Mas indra dan tetaplah menjadi pribadi yang rendah hati❤ 
     Dari aku Moleta Sahabatmu 🤎"`,
-    image: Moletta,
   },
   {
     name: 'Hapsari Anggraini',
     infoName: 'Sahabat SMP Dinda',
     description: `"Selamat menempuh hidup baru Dinda dan mas Indra, semoga menjadi keluarga yg sakinah, mawaddah, warrahmah, yg bahagia, dan menjadi pasangan yg selalu ada dalam keadaan suka maupun duka aamiin.
     semoga kita cepet dapet ponakan ya, Dinn😂💙"`,
-    image: hapsari,
   },
   {
     name: 'Herza I.M',
@@ -85,7 +73,6 @@ export const wishlist = [
     name: 'Dhyanara NP',
     infoName: 'Rekan Kerja Dinda, NET TV',
     description: `Semoga pernikahan ini membawa Dinda dan Indra dalam ketentraman (sakinah), cinta (mawaddah) dan welas asih (rohmah). Jika saja semakin tumbuhnya cinta itu tak muat masuk ke rongga dada, semoga Allah berikan kelapangan rasa. Semoga Allah mudahkan segala tujuan awal saat kalian berdua memutuskan bersama:)`,
-    image: dianara,
   },
   {
     name: 'Fajar Falahiat',
@@ -97,7 +84,6 @@ export const wishlist = [
     name: 'Pramudina Rahmawati',
     infoName: 'Sahabat SMA Dinda',
     description: `Happy Wedding Dinda & Mas indra. Semoga menjadi pasangan yang samawa, dilimpahkan selalu rezeki dan kebahagiaan, dan langgeng sampai akhir hayat yah! 🖤`,
-    image: rahma,
   },
   {
     name: 'Kamal',
@@ -109,7 +95,6 @@ export const wishlist = [
     name: 'Vela Hafira',
     infoName: 'Sahabat SMA Dinda',
     description: `Happy Wedding Dinda & Mas Indra. Selamat menempuh perjalanan hidup yang baru. Semoga bertambahlah ketaatan kalian kepada Allah hingga surga menjadi dekat. Dan dilimpahkan rezeki, petunjuk, keberkahan, dan kebahagiaan lahir batin.  Barakallahu laka 💟💟💟`,
-    image: vela,
   },
   {
     name: 'Iqmalifa Dwi Nursandhi',
@@ -117,7 +102,6 @@ export const wishlist = [
     description: `"Im very happy for you dinda & mas indra..
     Sahabatku dinda.. ini adalah awal perjalanan cinta kalian yang sesungguhnya, membangun cinta dalam satu atap berdua mengarungi samudra kehidupan. Semoga dinda & mas indra menjadi keluarga yang Sakinnah, Mawaddah, & Warahmah.
     Semoga perjalanan kalian akan tetap indah kala bersama-sama membangun kehidupan yang baru, kehidupan yang mengikatkan janji suci berjanji sehidup semati. May your love continue to grow each and every year. Best wishes on your wedding, happily ever after!❤️"`,
-    image: iqmala,
   },
   {
     name: 'Abdul Ghofar',

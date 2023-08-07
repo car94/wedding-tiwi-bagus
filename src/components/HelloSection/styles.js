@@ -1,6 +1,10 @@
 import { css } from '@emotion/react';
+import Background from '@assets/images/gold-ribbons-white-marble-social-template.jpg';
 
 export const styWrapper = css`
+  background-size: cover;
+  background-image: url(${Background});
+  background-position: center;
   .sub-title {
     color: #828282;
     font-weight: 600;

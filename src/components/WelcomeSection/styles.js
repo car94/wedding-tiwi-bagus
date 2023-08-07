@@ -1,5 +1,5 @@
 import { css, keyframes } from '@emotion/react';
-import Background from '@assets/images/2S2A8946.jpg';
+import Background from '@assets/images/5293777.jpg';
 
 export const styHero = css`
   width: 100%;
@@ -230,16 +230,16 @@ export const styWrapperCount = css`
   display: inline-block;
   width: 100px;
   height: 100px;
-  background: rgba(241, 78, 149, 0.8);
+  background: #fff;
   margin: 8px;
   border-radius: 50%;
   position: relative;
   animation: pulse 1s ease infinite;
-  color: #fff;
+  color: #000;
 
   h3 {
     font-size: 30px;
-    color: #fff;
+    color: #000;
     margin: 20px 0 0 0;
   }
 

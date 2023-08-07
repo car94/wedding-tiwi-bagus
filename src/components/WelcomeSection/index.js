@@ -9,7 +9,7 @@ import { styWrapper, styHero, styBackground, styButtonWrapper } from './styles';
 
 const DELAY_TIME = 1500;
 
-function WelcomeSection({ location, guestName, isInvitation, isAnonymGuest, codeLink, onClickDetail }) {
+function WelcomeSection({ guestName, isInvitation, isAnonymGuest, codeLink, onClickDetail }) {
   const [loading, setLoading] = useState(false);
   const [alreadyDownloadData, setAlreadyDownloadData] = useState(false);
 

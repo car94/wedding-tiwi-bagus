@@ -5,7 +5,6 @@ import { styWrapper } from '../HelloSection/styles';
 function FooterSection({ isInvitation }) {
   return (
     <Fragment>
-      {!isInvitation && (
         <div id="fh5co-couple" className="fh5co-section-gray" css={styWrapper}>
           <div className="container">
             <div className="row">
@@ -20,7 +19,6 @@ function FooterSection({ isInvitation }) {
             </div>
           </div>
         </div>
-      )}
       <footer id="fh5co-footer" role="contentinfo">
         <div className="container">
           <div className="row copyright">

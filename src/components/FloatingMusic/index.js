@@ -1,6 +1,6 @@
 import React, { Fragment, useState } from 'react';
-import IconMusic from '@assets/images/music-icon.png';
-import IconMusicStop from '@assets/images/music-stop-icon.png';
+import IconMusic from '@assets/images/play-button.png';
+import IconMusicStop from '@assets/images/stop.png';
 import MusicBacksound from '@assets/music/Kina Grannis & Imaginary Future - I Will Spend My Whole Life Loving You.mp3';
 
 import { styMusicFloating } from './styles';

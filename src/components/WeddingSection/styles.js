@@ -1,5 +1,5 @@
 import { css } from '@emotion/react';
-import Background from '@assets/images/2S2A8690.jpg';
+import Background from '@assets/images/5293777.jpg';
 
 export const styWrapper = css`
   background-image: url(${Background});
@@ -56,7 +56,7 @@ export const styButtonWrapper = css`
     color: #fff;
     font-weight: 500px;
     border-radius: 24px;
-    background: #f14e95;
+    background: #ab8252;
     padding: 8px 16px;
   }
 

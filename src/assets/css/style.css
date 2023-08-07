@@ -2,7 +2,7 @@
   font-family: 'icomoon';
   src: url('../fonts/icomoon/icomoon.eot?srf3rx');
   src: url('../fonts/icomoon/icomoon.eot?srf3rx#iefix') format('embedded-opentype'),
-    url('../fonts/icomoon/icomoon.ttf?srf3rx') format('truetype'),
+    url('../fonts/Rachel.ttf?srf3rx') format('truetype'),
     url('../fonts/icomoon/icomoon.woff?srf3rx') format('woff'),
     url('../fonts/icomoon/icomoon.svg?srf3rx#icomoon') format('svg');
   font-weight: normal;
@@ -49,7 +49,7 @@ body {
 }
 
 a {
-  color: #f14e95;
+  color: #ab8252;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -57,7 +57,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-  color: #f14e95;
+  color: #ab8252;
   outline: none;
   text-decoration: none;
 }
@@ -81,17 +81,17 @@ figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #f14e95;
+  background: #ab8252;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #f14e95;
+  background: #ab8252;
 }
 
 ::selection {
   color: #fff;
-  background: #f14e95;
+  background: #ab8252;
 }
 
 .fh5co-nav {
@@ -210,7 +210,7 @@ figure {
   color: #fff;
 }
 .fh5co-nav ul li.btn-cta a {
-  color: #f14e95;
+  color: #ab8252;
 }
 .fh5co-nav ul li.btn-cta a span {
   background: #fff;
@@ -323,7 +323,7 @@ figure {
   top: 0;
   left: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.3);
 }
 .fh5co-cover > .fh5co-container {
   position: relative;
@@ -788,7 +788,7 @@ figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #f14e95;
+  color: #ab8252;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -807,7 +807,7 @@ figure {
   position: relative;
 }
 .fh5co-contact-info ul li:before {
-  color: #f14e95;
+  color: #ab8252;
   position: absolute;
   left: 0;
   top: 0.05em;
@@ -900,7 +900,7 @@ form label {
 .fh5co-cover .display-tc .btn {
   padding: 15px 20px;
   background: #fff !important;
-  color: #f14e95;
+  color: #ab8252;
   border: none !important;
   font-size: 14px;
   text-transform: uppercase;
@@ -1069,7 +1069,7 @@ form label {
   font-size: 20px;
   background: #fff;
   padding: 20px;
-  color: #f14e95;
+  color: #ab8252;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -1092,7 +1092,7 @@ form label {
 }
 .couple-half h3 {
   font-family: 'Sacramento', Arial, serif;
-  color: #f14e95;
+  color: #ab8252;
   font-size: 30px;
 }
 .couple-half .groom,
@@ -1190,7 +1190,7 @@ form label {
   height: 90px;
   font-size: 40px;
   line-height: 40px;
-  color: #f14e95;
+  color: #ab8252;
 }
 .feature-center p,
 .feature-center h3 {
@@ -1213,7 +1213,7 @@ form label {
   margin-bottom: 10px;
   line-height: 1.5;
   font-weight: 500;
-  color: #f14e95;
+  color: #ab8252;
   font-family: 'Sacramento', Arial, serif;
 }
 @media screen and (max-width: 768px) {
@@ -1248,7 +1248,7 @@ form label {
   display: block;
 }
 #fh5co-testimonial .wrap-testimony .testimony-slide span a.twitter {
-  color: #f14e95;
+  color: #ab8252;
   font-weight: 300;
 }
 #fh5co-testimonial .wrap-testimony .testimony-slide figure {
@@ -1342,7 +1342,7 @@ form label {
   display: table-cell;
   vertical-align: middle;
   font-size: 30px;
-  color: #f14e95;
+  color: #ab8252;
 }
 .feature-left .feature-copy {
   float: left;
@@ -1408,7 +1408,7 @@ form label {
 #fh5co-started .btn {
   height: 54px;
   border: none !important;
-  background: #f14e95;
+  background: #ab8252;
   color: #fff;
   font-size: 16px;
   text-transform: uppercase;
@@ -1454,7 +1454,7 @@ form label {
 }
 .owl-carousel .owl-controls .owl-dot.active span {
   background: transparent;
-  border: 2px solid #f14e95;
+  border: 2px solid #ab8252;
 }
 
 #fh5co-offcanvas {
@@ -1716,9 +1716,9 @@ form label {
 }
 
 .btn-primary {
-  background: #f14e95;
+  background: #ab8252;
   color: #fff;
-  border: 2px solid #f14e95;
+  border: 2px solid #ab8252;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -1728,13 +1728,13 @@ form label {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #f14e95;
-  border: 2px solid #f14e95;
+  color: #ab8252;
+  border: 2px solid #ab8252;
 }
 .btn-primary.btn-outline:hover,
 .btn-primary.btn-outline:focus,
 .btn-primary.btn-outline:active {
-  background: #f14e95;
+  background: #ab8252;
   color: #fff;
 }
 
@@ -1883,7 +1883,7 @@ form label {
 .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #f14e95;
+  border-color: #ab8252;
 }
 
 .row-pb-md {
@@ -1955,7 +1955,7 @@ form label {
     display: block;
     text-align: center;
     font-size: 5em !important;
-    color: rgba(241, 78, 149, 0.8);
+    color: #ab8252;
     font-weight: bold;
   }
 
