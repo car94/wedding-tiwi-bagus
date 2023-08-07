@@ -9,6 +9,9 @@
   font-style: normal;
 }
 @import url('https://fonts.googleapis.com/css2?family=Alice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Almarai&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:opsz@6..72&display=swap');
 
 /* =======================================================
 *
@@ -16,11 +19,11 @@
 *
 * ======================================================= */
 body {
-  font-family: 'Work Sans', Arial, sans-serif;
+  font-family: 'Newsreader', serif;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
-  color: #828282;
+  color: #000;
   background: #fff;
 }
 
@@ -417,15 +420,15 @@ figure {
 }
 #fh5co-counter .event-wrap,
 #fh5co-event .event-wrap {
-  border: 2px solid rgba(255, 255, 255, 0.5);
-  background: rgba(255, 255, 255, 0.1);
+  border: 0px solid rgba(255, 255, 255, 0.5);
+  background: rgba(255, 255, 255, 0.7);
   padding: 30px;
   width: 100%;
   float: left;
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  -ms-border-radius: 4px;
-  border-radius: 4px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  border-radius: 6px;
 }
 @media screen and (max-width: 768px) {
   #fh5co-counter .event-wrap,
@@ -436,7 +439,7 @@ figure {
 #fh5co-counter .event-wrap h3,
 #fh5co-event .event-wrap h3 {
   font-size: 20px;
-  color: #fff;
+  color: #000;
   border-bottom: 1px solid rgba(255, 255, 255, 0.5);
   display: block;
   padding-bottom: 20px;
@@ -452,7 +455,7 @@ figure {
 }
 #fh5co-counter .event-wrap i,
 #fh5co-event .event-wrap i {
-  color: white;
+  color: #000;
   font-size: 20px;
 }
 #fh5co-counter .event-wrap .event-col,
@@ -1956,13 +1959,13 @@ form label {
   .and-love {
     display: block;
     text-align: center;
-    font-size: 5em !important;
-    color: #ab8252;
+    font-size: 50px !important;
+    color: #000;
     font-weight: bold;
   }
 
   .main-font__wedding {
-    font-size: 32px !important;
+    font-size: 22px !important;
   }
 
   .sub-title__wedding {

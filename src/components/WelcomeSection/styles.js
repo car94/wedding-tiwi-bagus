@@ -1,5 +1,5 @@
 import { css, keyframes } from '@emotion/react';
-import Background from '@assets/images/5293777.jpg';
+import Background from '@assets/images/bg-trans-cover.webp';
 
 export const styHero = css`
   width: 100%;
@@ -132,7 +132,7 @@ export const styBackground = css`
 
   @media screen and (max-width: 400px) {
     .title {
-      font-size: 40px;
+      font-size: 50px;
     }
 
     .sub-title {
@@ -142,7 +142,7 @@ export const styBackground = css`
 
   @media screen and (max-width: 500px) {
     .title {
-      font-size: 54px;
+      font-size: 64px;
     }
 
     .sub-title {
@@ -164,7 +164,7 @@ export const styWrapper = css`
     margin-bottom: 0px;
     font-size: 100px;
     line-height: 1.5;
-    font-family: 'Cookie', cursive;
+    font-family: 'Sacramento', cursive;
     color: #fff;
   }
 
@@ -177,7 +177,7 @@ export const styWrapper = css`
   }
 
   h4 {
-    font-family: 'Cookie', cursive;
+    font-family: 'Almarai', sans-serif;
     margin: 0;
     color: #fff;
     font-size: 30px;

@@ -3,11 +3,11 @@ import { bool } from 'prop-types';
 
 import Bride from '@assets/images/p-tiwi.jpg';
 import Groom from '@assets/images/p-bagus.jpg';
+import Bg from '@assets/images/2S2A8500.jpg'
 
 import { styWrapper } from './styles';
 
-function HelloSection({ isInvitation }) {
-  const finalSubtitle = isInvitation ? '03 September 2023, Gedung PGSD, Kampus 3 Universitas Negeri Malang' : 'Minggu, 03 September 2023';
+function HelloSection() {
 
   return (
     <Fragment>
@@ -15,8 +15,6 @@ function HelloSection({ isInvitation }) {
         <div className="container">
           <div className="row">
             <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
-              <h2 className="main-font">Assalamualaikum Wr. Wb</h2>
-              <h3 className="sub-title hs">{finalSubtitle}</h3>
               <p className="info">
                 Dengan memohon Rahmat dan Ridho Illahi, teriring niat menjalankan Sunnah Rasulullah ﷺ untuk membentuk
                 rumah tangga yang Sakinah, Mawaddah wa Rahmah, kami mohon do'a agar senantiasa diberikan kelancaran dan
@@ -30,7 +28,7 @@ function HelloSection({ isInvitation }) {
                 <img src={Bride} alt="groom" className="img-responsive" loading="lazy" />
               </div>
               <div className="desc-groom">
-                <h3 className="main-font">Rachmi Mustika Pertiwi Putri Gunawan, S.T., M.Sc.</h3>
+                <h4 className="main-font">Rachmi Mustika Pertiwi Putri Gunawan, S.T., M.Sc.</h4>
                 <p className="parent-name parent-name__top">
                   Putri Kedua Bapak Adi Gunawan Wibisono <br />& Ibu dr. Yudia Supradini (Almh.)
                 </p>
@@ -47,7 +45,7 @@ function HelloSection({ isInvitation }) {
                 <img src={Groom} alt="groom" className="img-responsive" loading="lazy" />
               </div>
               <div className="desc-bride">
-                <h3 className="main-font">Bagus Muhammad Husein, S.T.</h3>
+                <h4 className="main-font">Bagus Muhammad Husein, S.T.</h4>
                 <p className="parent-name">
                   Putra Ketiga Bapak Mulyadi <br />& Ibu Yulizar
                 </p>
@@ -56,6 +54,7 @@ function HelloSection({ isInvitation }) {
           </div>
         </div>
       </div>
+      <img src={Bg} alt="groom" className="img-responsive" loading="lazy" />
     </Fragment>
   );
 }

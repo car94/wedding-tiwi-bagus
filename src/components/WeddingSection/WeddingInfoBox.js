@@ -8,16 +8,16 @@ function WeddingInfoBox({ title, date, time, description }) {
         <h3>{title}</h3>
         <div className="event-col">
           <i className="icon-clock"></i>
-          <span>{time}</span>
+          <span style={{color: 'black'}}>{time}</span>
         </div>
         <div className="event-col">
           <i className="icon-calendar"></i>
-          <span>{date}</span>
+          <span style={{color: 'black'}}>{date}</span>
         </div>
         {description && (
           <div className="event-col">
             <i className="icon-location-pin"></i>
-            <span dangerouslySetInnerHTML={{ __html: description }} />
+            <span dangerouslySetInnerHTML={{ __html: description }} style={{color: 'black'}} />
           </div>
         )}
       </div>

@@ -1,5 +1,5 @@
 import { css } from '@emotion/react';
-import Background from '@assets/images/5293777.jpg';
+import Background from '@assets/images/bg-trans-cover.webp';
 
 export const styWrapper = css`
   background-image: url(${Background});
@@ -7,16 +7,10 @@ export const styWrapper = css`
   background-position: center;
   width: 100%;
   min-height: 70vh;
-  color: #fff !important;
-
-  .bismillah {
-    color: #fff !important;
-    font-size: 16px !important;
-    font-family: sans-serif;
-  }
+  color: #000 !important;
 
   .sub-title {
-    color: #fff !important;
+    color: #000 !important;
     font-size: 16px;
     font-family: 'Work Sans', Arial, sans-serif;
     font-weight: 400 !important;

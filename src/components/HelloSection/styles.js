@@ -1,5 +1,5 @@
 import { css } from '@emotion/react';
-import Background from '@assets/images/gold-ribbons-white-marble-social-template.jpg';
+import Background from '@assets/images/bg-trans-cover.webp';
 
 export const styWrapper = css`
   background-size: cover;

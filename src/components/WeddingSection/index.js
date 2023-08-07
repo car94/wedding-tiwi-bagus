@@ -9,15 +9,7 @@ function WeddingSection() {
   return (
     <Fragment>
       <div id="fh5co-event" css={styWrapper}>
-        <div className="overlay" />
         <div className="container">
-          <div className="row">
-            <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
-              <span className="bismillah">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</span>
-              <h2 className="main-font main-font__wedding">Akad Nikah dan Syukuran Pernikahan</h2>
-              <span className="sub-title sub-title__wedding">Insha Allah akan diselenggarakan pada:</span>
-            </div>
-          </div>
           <div className="row">
               <div className="col-md-10 col-md-offset-1">
                 <WeddingInfoBox
@@ -28,7 +20,7 @@ function WeddingSection() {
                   Jawa Timur 66117"
                 />
                 <WeddingInfoBox
-                  title="Syukuran Pernikahan"
+                  title="Resepsi"
                   time="12.00 - 14.00 WIB"
                   date="Minggu, 03 September 2023"
                   description="Gedung PGSD, Kampus 3 Universitas Negeri Malang <br/>Jl. Ir. Soekarno No.1, Kepanjen Lor, Kec. Kepanjenkidul, Kota Blitar,
