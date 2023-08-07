@@ -12,7 +12,7 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "server": "json-server -p 3001 --watch wish-list.json --host 127.0.0.1"
+    "server": "json-server -p 3001 --watch wish-list.json"
   },
   "dependencies": {
     "@emotion/core": "^11.0.0",
