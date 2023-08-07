@@ -1,11 +1,11 @@
 # Get All Wishlist
-GET http://localhost:3001/wishes HTTP/1.1
+GET https://tiwi-bagus.netlify.app:3001/wishes HTTP/1.1
 Content-Type: application/json
 
 ###
 
 # Create a wish
-POST http://localhost:3001/wishes HTTP/1.1
+POST https://tiwi-bagus.netlify.app:3001/wishes HTTP/1.1
 Content-Type: application/json
 
 {
