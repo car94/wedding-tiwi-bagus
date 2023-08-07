@@ -1,13 +1,13 @@
-import Gallery1 from '@assets/images/2S2A8690.JPG';
-import GalleryT1 from '@assets/images/2S2A8690.JPG';
-import Gallery2 from '@assets/images/2S2A8946.JPG';
-import GalleryT2 from '@assets/images/2S2A8946.JPG';
-import Gallery3 from '@assets/images/2S2A8533.JPG';
-import GalleryT3 from '@assets/images/2S2A8533.JPG';
-import Gallery4 from '@assets/images/2S2A8748.JPG';
-import GalleryT4 from '@assets/images/2S2A8748.JPG';
-import Gallery5 from '@assets/images/2S2A8826.JPG';
-import GalleryT5 from '@assets/images/2S2A8826.JPG';
+import Gallery1 from '@assets/images/gallery-1.jpg';
+import GalleryT1 from '@assets/images/gallery-1.jpg';
+import Gallery2 from '@assets/images/gallery-2.jpg';
+import GalleryT2 from '@assets/images/gallery-2.jpg';
+import Gallery3 from '@assets/images/gallery-3.jpg';
+import GalleryT3 from '@assets/images/gallery-3.jpg';
+import Gallery4 from '@assets/images/gallery-4.jpg';
+import GalleryT4 from '@assets/images/gallery-4.jpg';
+import Gallery5 from '@assets/images/gallery-5.jpg';
+import GalleryT5 from '@assets/images/gallery-5.jpg';
 
 export const photos = [
   {
