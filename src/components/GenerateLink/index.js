@@ -12,8 +12,8 @@ function GenerateLink() {
   const [isInvitation, setIsInvitation] = useState(false);
 
   const { data, loading } = useGuestData();
-  const newName = name.replace(/ /g, '+');
-  const URL = `https://tiwi-bagus.netlify.app?to=${newName}`;
+  
+  const URL = `https://tiwi-bagus.netlify.app?to=${encodeURIComponent(name)}`;
 
   const handleChange = (e) => {
     setType(parseInt(e.target.value, 10));
