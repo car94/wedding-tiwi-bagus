@@ -28,7 +28,7 @@ function HelloSection() {
                 <img src={Bride} alt="groom" className="img-responsive" loading="lazy" />
               </div>
               <div className="desc-groom">
-                <h4 className="main-font">Rachmi Mustika Pertiwi Putri Gunawan, S.T., M.Sc.</h4>
+                <h4 className="main-font">R.M. Pertiwi Putri Gunawan, S.T., M.Sc.</h4>
                 <p className="parent-name parent-name__top">
                   Putri Kedua Bapak Adi Gunawan Wibisono <br />& Ibu dr. Yudia Supradini (Almh.)
                 </p>

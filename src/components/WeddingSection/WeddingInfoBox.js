@@ -1,5 +1,6 @@
 import React from 'react';
 import { string } from 'prop-types';
+import ButtonMaps from '../LocationSection/ButtonMaps';
 
 function WeddingInfoBox({ title, date, time, description }) {
   return (
@@ -20,6 +21,8 @@ function WeddingInfoBox({ title, date, time, description }) {
             <span dangerouslySetInnerHTML={{ __html: description }} style={{color: 'black'}} />
           </div>
         )}
+        <br />
+        <ButtonMaps />
       </div>
     </div>
   );

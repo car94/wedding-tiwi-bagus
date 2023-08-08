@@ -2,7 +2,6 @@ import React, { Fragment, useState } from 'react';
 import { object, string, bool, func } from 'prop-types';
 import { Link } from 'gatsby';
 
-import CountContainer from './CountContainer';
 import ScrollToDown from './ScrollToDown';
 import { styWrapper, styHero, styBackground, styButtonWrapper } from './styles';
 

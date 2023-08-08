@@ -12,6 +12,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Almarai&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Newsreader:opsz@6..72&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
 /* =======================================================
 *
@@ -1096,8 +1099,8 @@ form label {
   }
 }
 .couple-half h3 {
-  font-family: 'Sacramento', Arial, serif;
-  color: #ab8252;
+  font-family: 'Pacifico', cursive;
+  color: #000;
   font-size: 30px;
 }
 .couple-half .groom,
@@ -1127,8 +1130,8 @@ form label {
   }
   .couple-half .groom img,
   .couple-half .bride img {
-    width: 120px;
-    height: 120px;
+    width: 200px;
+    height: 200px;
     margin: 0 auto;
   }
 }
@@ -1156,10 +1159,12 @@ form label {
   }
   .couple-half .desc-groom {
     padding-right: 0;
+    margin-top: 220px;
     text-align: center;
   }
   .couple-half .desc-bride {
     padding-left: 0;
+    margin-top: 220px;
     text-align: center;
   }
 }
@@ -1236,7 +1241,7 @@ form label {
   font-size: 13px;
   letter-spacing: 2px;
   font-weight: 600;
-  color: rgba(0, 0, 0, 0.4);
+  color: #000;
 }
 
 #fh5co-testimonial .wrap-testimony {
@@ -1914,7 +1919,7 @@ form label {
 }
 
 .main-font {
-  font-family: 'Alice', serif !important;
+  font-family: 'Pacifico', cursive !important;
 }
 
 .and-love {
@@ -1959,7 +1964,7 @@ form label {
   .and-love {
     display: block;
     text-align: center;
-    font-size: 50px !important;
+    font-size: 40px !important;
     color: #000;
     font-weight: bold;
   }
