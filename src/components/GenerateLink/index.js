@@ -12,8 +12,8 @@ function GenerateLink() {
   const [isInvitation, setIsInvitation] = useState(false);
 
   const { data, loading } = useGuestData();
-
-  const URL = `https://tiwi-bagus.netlify.app?to=${encodeURIComponent(name)}`;
+  const newName = name.replace(/ /g, '+');
+  const URL = `https://tiwi-bagus.netlify.app?to=${newName}`;
 
   const handleChange = (e) => {
     setType(parseInt(e.target.value, 10));
@@ -107,7 +107,8 @@ function GenerateLink() {
               <tbody>
                 {data.map((d, index) => {
                   const offlineInvitation = isInvitation ? `&type=invitation&code=${d.code}` : '';
-                  const mapURL = `https://tiwi-bagus.netlify.app?to=${encodeURIComponent(d.name)}${offlineInvitation}`;
+                  const newName = d.name.replace(/ /g, '+');
+                  const mapURL = `https://tiwi-bagus.netlify.app?to=${newName}${offlineInvitation}`;
                   return (
                     <tr>
                       <td>{index + 1}</td>

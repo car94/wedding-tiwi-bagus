@@ -6,7 +6,7 @@ function CountItem({ number, text }) {
   return (
     <div css={styWrapperCount}>
       <h3>{number}</h3>
-      <span>{text}</span>
+      <span style={{ fontSize: '8px' }}>{text}</span>
     </div>
   );
 }

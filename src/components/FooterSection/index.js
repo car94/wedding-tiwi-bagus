@@ -5,7 +5,7 @@ import { styWrapper } from '../HelloSection/styles';
 function FooterSection() {
   return (
     <Fragment>
-        <div id="fh5co-couple" className="fh5co-section-gray" css={styWrapper}>
+        <div css={styWrapper}>
           <div className="container">
             <div className="row">
               <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
