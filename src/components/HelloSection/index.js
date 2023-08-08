@@ -3,7 +3,7 @@ import { bool } from 'prop-types';
 
 import Bride from '@assets/images/p-tiwi.jpg';
 import Groom from '@assets/images/p-bagus.jpg';
-import Bg from '@assets/images/2S2A8500.jpg'
+import Bg from '@assets/images/foto-1.jpg'
 
 import { styWrapper } from './styles';
 

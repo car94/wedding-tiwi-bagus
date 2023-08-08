@@ -7,8 +7,8 @@ function Provider({ children }) {
     const [wishes, setWishes] = useState([]);
 
     const fetchWishes = useCallback(async () => {
-        const response = await axios.get('http://localhost:3001/wishes');
-
+        const response = await axios.get('https://tofftopeight.com/tiwi/public/api/wishes');
+        console.log(response);
         setWishes(response.data);
     }, []);
 

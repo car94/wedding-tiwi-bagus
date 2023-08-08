@@ -6,7 +6,7 @@ function WeddingInfoBox({ title, date, time, description }) {
   return (
     <div className="col-md-6 col-sm-6 text-center">
       <div className="event-wrap">
-        <h3 style={{ fontFamily: 'Pacifico' }}>{title}</h3>
+        <h2 style={{ fontFamily: 'Pacifico' }}>{title}</h2>
         <div className="event-col">
           <i className="icon-clock"></i>
           <span style={{color: 'black'}}>{time}</span>

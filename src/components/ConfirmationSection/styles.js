@@ -1,5 +1,5 @@
 import { css } from '@emotion/react';
-import Background from '@assets/images/slide-6.jpg';
+import Background from '@assets/images/bg-2.jpg';
 
 export const styWrapper = css`
   background-image: url(${Background});

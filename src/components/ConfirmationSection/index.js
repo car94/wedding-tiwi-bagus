@@ -1,41 +1,31 @@
 import React from 'react';
-import { string, bool } from 'prop-types';
-import { Link } from 'gatsby';
-
 import { styWrapper, styFlex } from './styles';
+import mandiri from '@assets/images/mandiri.png';
 
-function ConfirmationSection({ isInvitation, guestName, codeLink }) {
-  if (!isInvitation) return null;
-
+function ConfirmationSection() {
   return (
     <div id="fh5co-started" className="fh5co-bg" css={styWrapper}>
-      <div className="overlay"></div>
       <div className="container">
         <div className="row">
           <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
-            <h2 className="main-font">{` Apakah kamu hadir, ${guestName}?`}</h2>
-            <p>
-              Atas kehadiran & do'a restu saudara/i, <br /> kami ucapkan terima kasih. Wassalamualaikum Warahmatullahi
-              Wabarakatuh.
-            </p>
-          </div>
-        </div>
-        <div className="row" css={styFlex}>
-          <div className="col-md-3">
-            <Link to={`e-ticket?${codeLink}`}>
-              <button className="btn btn-default btn-block">Lihat e-Ticket</button>
-            </Link>
+            <h2 style={{ fontFamily: 'Pacifico', color: 'black' }}>Amplop Digital</h2>
+            <br></br>
+            <h5 style={{color: '#000'}}>
+              Dengan tidak mengurangi rasa hormat, bagi anda yang ingin memberikan tanda kasih untuk kami, dapat melalui:
+            </h5>
+            <img src={mandiri} alt="groom" className="img-responsive" loading="lazy" style={{width: '50%', marginLeft: '100px'}} />
+            <br></br>
+            <h5 style={{color: '#000'}}>
+              <strong>No. Rekening: 1710010404021</strong>
+            </h5>
+            <h5 style={{color: '#000'}}>
+              <strong>R.M PERTIWI PUTRI GU</strong>
+            </h5>
           </div>
         </div>
       </div>
     </div>
   );
 }
-
-ConfirmationSection.propTypes = {
-  codeLink: string.isRequired,
-  isInvitation: bool.isRequired,
-  guestName: string.isRequired,
-};
 
 export default React.memo(ConfirmationSection);

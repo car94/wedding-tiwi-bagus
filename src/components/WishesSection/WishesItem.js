@@ -2,7 +2,7 @@ import React from 'react';
 import { string, bool } from 'prop-types';
 import { styWrapperItem, styWithAnimation } from './styles';
 
-function WishesItem({ image, name, infoName, description, isActive }) {
+function WishesItem({ name, description, isActive }) {
   if (!isActive) return null;
 
   const renderItem = () => {
@@ -10,7 +10,6 @@ function WishesItem({ image, name, infoName, description, isActive }) {
       <div className="item" css={styWrapperItem}>
         <div className={`testimony-slide text-center ${isActive ? 'active' : 'hide'}`}>
           <h4>{name}</h4>
-          <span className="infoName">{infoName}</span>
           <blockquote>
             <p className="description">{description}</p>
           </blockquote>

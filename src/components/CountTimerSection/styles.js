@@ -1,9 +1,7 @@
 import { css } from '@emotion/react';
-import Background from '@assets/images/bg-2.jpg';
 
 export const styWrapper = css`
-  background-size: 100%;
-  background-image: url(${Background});
+  background-size: 100%;  
   background-position: center;
   .sub-title {
     color: #828282;
@@ -39,7 +37,7 @@ export const styWrapperCount = css`
   display: inline-block;
   width: 100px;
   height: 100px;
-  background: #fff;
+  background: #ab8252;
   margin: 8px;
   border-radius: 50%;
   position: relative;

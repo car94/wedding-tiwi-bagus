@@ -12,7 +12,7 @@ import PhotoSection from '@components/PhotoSection/Loadable';
 import FooterSection from '@components/FooterSection';
 import FloatingMusic from '@components/FloatingMusic/Loadable';
 import ArRumSection from '@components/ArRumSection';
-import CountTimerSection from '@components/CountTimerSection';
+import ConfirmationSection from '@components/ConfirmationSection';
 
 function Home({ location }) {
   const guestName = decodeURIComponent(getQueryValue(location, 'to') || '');
@@ -35,8 +35,8 @@ function Home({ location }) {
         <ArRumSection />
         <HelloSection />
         <WeddingSection />
-        <CountTimerSection />
         <PhotoSection />
+        <ConfirmationSection />
         <FooterSection />
       </Fragment>
     );

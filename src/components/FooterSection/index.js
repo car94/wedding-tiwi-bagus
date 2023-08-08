@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react';
 import { bool } from 'prop-types';
-import { styWrapper } from '../HelloSection/styles';
+import { styWrapper } from './styles';
 
 function FooterSection() {
   return (

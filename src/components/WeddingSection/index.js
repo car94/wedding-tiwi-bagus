@@ -4,6 +4,7 @@ import { bool } from 'prop-types';
 import WeddingInfoBox from './WeddingInfoBox';
 import ButtonLive from './ButtonLive';
 import { styWrapper } from './styles';
+import CountTimerSection from '../CountTimerSection';
 
 function WeddingSection() {
   return (
@@ -30,6 +31,8 @@ function WeddingSection() {
               </div>
           </div>
         </div>
+        <br></br>
+        <CountTimerSection />
       </div>
     </Fragment>
   );

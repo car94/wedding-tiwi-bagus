@@ -11,7 +11,7 @@ function PhotoSection() {
         <div className="row">
           <div className="row">
             <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
-              <h3 className="main-font">Gallery</h3>
+              <h2 style={{ fontFamily: 'Pacifico', color: 'black' }}>Gallery</h2>
             </div>
           </div>
           <div className="row">
