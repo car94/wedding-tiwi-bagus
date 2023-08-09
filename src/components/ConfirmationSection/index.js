@@ -1,6 +1,7 @@
 import React from 'react';
 import { styWrapper, styFlex } from './styles';
 import mandiri from '@assets/images/mandiri.png';
+import btpn from '@assets/images/BTPN.png'
 
 function ConfirmationSection() {
   return (
@@ -20,6 +21,15 @@ function ConfirmationSection() {
             </h5>
             <h5 style={{color: '#000'}}>
               <strong>R.M PERTIWI PUTRI GU</strong>
+            </h5>
+            <br></br>
+            <img src={btpn} alt="groom" className="img-responsive" loading="lazy" style={{width: '35%', marginLeft: '120px'}} />
+            <br></br>
+            <h5 style={{color: '#000'}}>
+              <strong>No. Rekening: 90350005219</strong>
+            </h5>
+            <h5 style={{color: '#000'}}>
+              <strong>BAGUS MUHAMMAD HUSEIN</strong>
             </h5>
           </div>
         </div>
