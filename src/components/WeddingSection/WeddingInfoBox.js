@@ -1,6 +1,6 @@
 import React from 'react';
 import { string } from 'prop-types';
-import ButtonMaps from '../LocationSection/ButtonMaps';
+import ButtonMaps from './ButtonMaps';
 
 function WeddingInfoBox({ title, date, time, description }) {
   return (

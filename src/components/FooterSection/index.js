@@ -1,19 +1,8 @@
 import React, { Fragment } from 'react';
-import { bool } from 'prop-types';
-import { styWrapper } from './styles';
 
 function FooterSection() {
   return (
     <Fragment>
-        <div css={styWrapper}>
-          <div className="container">
-            <div className="row">
-              <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
-                <h3 className="main-font">With love, Tiwi & Bagus</h3>
-              </div>
-            </div>
-          </div>
-        </div>
       <footer id="fh5co-footer" role="contentinfo">
         <div className="container">
           <div className="row copyright">
@@ -34,9 +23,5 @@ function FooterSection() {
     </Fragment>
   );
 }
-
-FooterSection.propTypes = {
-  isInvitation: bool.isRequired,
-};
 
 export default React.memo(FooterSection);

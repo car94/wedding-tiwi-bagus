@@ -1,15 +1,14 @@
 import React, { useState, useEffect, useCallback } from 'react';
 
 import WishesItem from './WishesItem';
-import { wishlist } from './wishlist-data';
 import { styButtonWrapper } from './styles';
 
-const INTERVAL_SLIDE = 35000;
+const INTERVAL_SLIDE = 10000;
 
-function WishesContainer() {
+function WishesContainer({ wishes }) {
   const [active, setActive] = useState(0);
   const [pauseSlide, setPauseSlide] = useState(false);
-  const totalWishes = wishlist.length || 0;
+  const totalWishes = wishes.length || 0;
 
   const handleSetActive = (isNext = true) => {
     if (isNext) {
@@ -34,7 +33,7 @@ function WishesContainer() {
   };
 
   const handleSetNext = useCallback(() => {
-    if (active === wishlist.length - 1) {
+    if (active === wishes.length - 1) {
       setActive(0);
     } else {
       setActive(active + 1);
@@ -42,7 +41,7 @@ function WishesContainer() {
   }, [active]);
 
   const renderWishlist = () => {
-    return wishlist.map((w, index) => <WishesItem key={index} {...w} isActive={index === active} />);
+    return wishes.map((wish, index) => <WishesItem key={index} {...wish} isActive={index === active} />);
   };
 
   /** Side effect to autoscroll */

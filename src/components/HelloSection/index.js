@@ -1,5 +1,4 @@
 import React, { Fragment } from 'react';
-import { bool } from 'prop-types';
 
 import Bride from '@assets/images/p-tiwi.jpg';
 import Groom from '@assets/images/p-bagus.jpg';
@@ -25,7 +24,7 @@ function HelloSection() {
           <div className="couple-wrap">
             <div className="couple-half">
               <div className="groom">
-                <img src={Bride} alt="groom" className="img-responsive" loading="lazy" />
+                <img src={Bride} alt="bride" className="img-responsive" loading="lazy" />
               </div>
               <div className="desc-groom">
                 <h4 className="main-font">R.M. Pertiwi Putri Gunawan, S.T., M.Sc.</h4>
@@ -58,9 +57,5 @@ function HelloSection() {
     </Fragment>
   );
 }
-
-HelloSection.propTypes = {
-  isInvitation: bool.isRequired,
-};
 
 export default HelloSection;

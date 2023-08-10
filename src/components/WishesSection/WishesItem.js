@@ -2,16 +2,16 @@ import React from 'react';
 import { string, bool } from 'prop-types';
 import { styWrapperItem, styWithAnimation } from './styles';
 
-function WishesItem({ name, description, isActive }) {
+function WishesItem({ name, message, isActive }) {
   if (!isActive) return null;
 
   const renderItem = () => {
     return (
       <div className="item" css={styWrapperItem}>
         <div className={`testimony-slide text-center ${isActive ? 'active' : 'hide'}`}>
-          <h4>{name}</h4>
+          <h4 style={{ color: 'black' }}>{name}</h4>
           <blockquote>
-            <p className="description">{description}</p>
+            <p className="description" style={{ color: 'black' }}>{message}</p>
           </blockquote>
         </div>
       </div>
@@ -22,10 +22,8 @@ function WishesItem({ name, description, isActive }) {
 }
 
 WishesItem.propTypes = {
-  image: string.isRequired,
   name: string.isRequired,
-  infoName: string.isRequired,
-  description: string.isRequired,
+  message: string.isRequired,
   isActive: bool.isRequired,
 };
 

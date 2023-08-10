@@ -1,11 +1,10 @@
 import React, { useState, Fragment } from 'react';
 import useGuestData from '@/hooks/useGuestData';
-import useWishesContext from '@/hooks/use-wishes-context';
+import { styForm } from './styles';
 
-function WishesCreate() {
+function WishesCreate({onCreate }) {
   const [name, setName] = useState();
   const [message, setMessage] = useState();
-  const { createWish } = useWishesContext();
 
   const handleSetName = (event) => {
     setName(event.target.value);
@@ -17,7 +16,7 @@ function WishesCreate() {
 
     const handleSubmit = (event) => {
         event.preventDefault();
-        createWish(name, message);
+        onCreate(name, message);
         setName('');
         setMessage('');
     };
@@ -27,29 +26,31 @@ function WishesCreate() {
   const renderContentType = () => {
       return (
         <Fragment>
-            <form onSubmit={handleSubmit}>
+          <div css={styForm}>
+          <form onSubmit={handleSubmit}>
           <div class="form-group">
-            <label for="exampleInputEmail1">Nama</label>
+            <label for="nama" style={{ color: 'black' }}><strong>Nama</strong></label>
             <input
               value={name}
               onChange={handleSetName}
               type="text"
               class="form-control"
-              placeholder="Nama.."
+              
             ></input>
-            <label for="exampleInputEmail2">Pesan</label>
+            <label for="pesan">Pesan</label>
             <textarea
               value={message}
               onChange={handleSetMessage}
               type="text"
               class="form-control"
-              placeholder="Pesan.."
+              
             ></textarea>
           </div>
           <button type="submit" class="btn btn-primary">
             Send
           </button>
           </form>
+          </div>
         </Fragment>
       );
   };

@@ -13,7 +13,7 @@ function Provider({ children }) {
     }, []);
 
     const createWish = async (name, message) => {
-        const response = await axios.post('http://localhost:3001/wishes', {
+        const response = await axios.post('https://tofftopeight.com/tiwi/public/api/wishes', {
             name,
             message
         });
