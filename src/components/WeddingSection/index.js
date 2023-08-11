@@ -26,10 +26,10 @@ function WeddingSection() {
                   description="Gedung PGSD, Kampus 3 Universitas Negeri Malang <br/>Jl. Ir. Soekarno No.1, Kepanjen Lor, Kec. Kepanjenkidul, Kota Blitar,
                   Jawa Timur 66117"
                 />
-                <ButtonLive />
               </div>
           </div>
         </div>
+        <ButtonLive />
         <br></br>
         <CountTimerSection />
       </div>
