@@ -11,8 +11,6 @@ function GenerateLink() {
   const [successCopy, setSuccessCopy] = useState(false);
 
   const { data, loading } = useGuestData();
-  
-  const URL = `https://tiwi-bagus.netlify.app?to=${encodeURIComponent(name)}`;
 
   const handleChange = (e) => {
     setType(parseInt(e.target.value, 10));
@@ -70,6 +68,9 @@ function GenerateLink() {
     if (!showResult) return null;
 
     if (type === PERSONAL) {
+      const newName = name.replace(/ /g, '+');
+      const URL = `https://tiwi-bagus.netlify.app?to=${newName}`;
+      
       return (
         <div className="col-md-4 col-md-offset-4">
           <div class="alert alert-success" role="alert" style={{ marginTop: '20px' }}>
