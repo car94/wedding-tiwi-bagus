@@ -37,7 +37,7 @@ function WishesCreate({onCreate }) {
               class="form-control"
               
             ></input>
-            <label for="pesan">Pesan</label>
+            <label for="pesan"><strong>Pesan</strong></label>
             <textarea
               value={message}
               onChange={handleSetMessage}

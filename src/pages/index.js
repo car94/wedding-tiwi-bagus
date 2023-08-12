@@ -14,6 +14,7 @@ import FloatingMusic from '@components/FloatingMusic/Loadable';
 import ArRumSection from '@components/ArRumSection';
 import AmplopSection from '../components/AmplopSection';
 import WishesSection from '../components/WishesSection';
+import RspvSection from '../components/RspvSection';
 
 function Home({ location }) {
   const guestName = decodeURIComponent(getQueryValue(location, 'to') || '');
@@ -36,6 +37,7 @@ function Home({ location }) {
         <ArRumSection />
         <HelloSection />
         <WeddingSection />
+        <RspvSection />
         <PhotoSection />
         <AmplopSection />
         <WishesSection />
