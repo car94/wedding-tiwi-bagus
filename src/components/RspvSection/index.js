@@ -27,7 +27,7 @@ function RspvSection() {
         <div className="row">
           <div className="row">
             <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
-              <h2 style={{ fontFamily: 'Pacifico', color: 'black' }}>Rspv</h2>
+              <h2 style={{ fontFamily: 'Newsreader, serif', color: 'black' }}>RSVP</h2>
                 <h5 style={{color: '#000'}}>
                     Bantu kami mempersiapkan jamuan yang hangat untuk anda semua dengan mengirimkan konfirmasi kehadiran melalui form berikut ini
                 </h5>

@@ -37,9 +37,9 @@ function Home({ location }) {
         <ArRumSection />
         <HelloSection />
         <WeddingSection />
-        <RspvSection />
         <PhotoSection />
         <AmplopSection />
+        <RspvSection />
         <WishesSection />
         <FooterSection />
       </Fragment>

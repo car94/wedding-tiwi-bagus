@@ -4,7 +4,7 @@ import 'react-image-gallery/styles/css/image-gallery.css';
 import { photos } from './photo-data';
 import { styWrapper } from './styles';
 import teaser from '@assets/video/tiwi-prewedding.mp4';
-import thumb from '@assets/images/thumb.jpg';
+import thumb from '@assets/images/gallery-6-fix.jpg';
 
 function PhotoSection() {
   const Video = () => {
