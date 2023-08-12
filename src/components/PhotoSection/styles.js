@@ -1,8 +1,8 @@
 import { css } from '@emotion/react';
-import Background from '@assets/images/bg-2.jpg';
+import Background from '@assets/images/bg-trans-cover.webp';
 
 export const styWrapper = css`
-  background-size: 100%;
+  background-size: cover;
   background-image: url(${Background});
   background-position: center;
   .sub-title {
