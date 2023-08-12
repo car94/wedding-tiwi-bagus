@@ -7,7 +7,6 @@ import Gallery6 from '@assets/images/portrait-1-fix.jpg';
 import Gallery7 from '@assets/images/portrait-2-fix.jpg';
 import Gallery8 from '@assets/images/portrait-3-fix.jpg';
 import Gallery9 from '@assets/images/portrait-4-fix.jpg';
-import Gallery10 from '@assets/images/portrait-5-fix.jpg';
 import Gallery11 from '@assets/images/portrait-6-fix.jpg';
 import Gallery12 from '@assets/images/portrait-7-fix.jpg';
 import Gallery13 from '@assets/images/portrait-8-fix.jpg';
@@ -51,10 +50,6 @@ export const photos = [
   {
     original: Gallery9,
     thumbnail: Gallery9,
-  },
-  {
-    original: Gallery10,
-    thumbnail: Gallery10,
   },
   {
     original: Gallery11,
