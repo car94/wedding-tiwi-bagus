@@ -2,9 +2,10 @@ import React, { useState, Fragment } from 'react';
 import useGuestData from '@/hooks/useGuestData';
 import { styForm } from './styles';
 
-function WishesCreate({onCreate }) {
+function WishesCreate({ onCreate }) {
   const [name, setName] = useState();
   const [message, setMessage] = useState();
+  const [successHandleSubmit, setSuccessHandleSubmit] = useState(false);
 
   const handleSetName = (event) => {
     setName(event.target.value);
@@ -14,11 +15,13 @@ function WishesCreate({onCreate }) {
         setMessage(event.target.value);
         };
 
-    const handleSubmit = (event) => {
+    const handleSubmit = (event, showAlert = false) => {
         event.preventDefault();
         onCreate(name, message);
         setName('');
         setMessage('');
+        setSuccessHandleSubmit(true);
+        showAlert && alert('Berhasil');
     };
 
   const { loading } = useGuestData();
@@ -47,7 +50,7 @@ function WishesCreate({onCreate }) {
             ></textarea>
           </div>
           <button type="submit" class="btn btn-primary">
-            Send
+            {successHandleSubmit ? 'Terkirim' : 'Send'}
           </button>
           </form>
           </div>

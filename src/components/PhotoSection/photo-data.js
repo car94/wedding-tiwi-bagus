@@ -10,9 +10,11 @@ import Gallery9 from '@assets/images/portrait-4-fix.jpg';
 import Gallery11 from '@assets/images/portrait-6-fix.jpg';
 import Gallery12 from '@assets/images/portrait-7-fix.jpg';
 import Gallery13 from '@assets/images/portrait-8-fix.jpg';
-import Gallery14 from '@assets/images/portrait-9-fix.jpg';
 import Gallery15 from '@assets/images/portrait-10-fix.jpg';
 import Gallery16 from '@assets/images/portrait-11-fix.jpg';
+import Gallery17 from '@assets/images/gallery-6-fix.jpg';
+import Gallery18 from '@assets/images/gallery-7-fix.jpg';
+import Gallery19 from '@assets/images/gallery-8-fix.jpg';
 
 export const photos = [
   {
@@ -34,6 +36,18 @@ export const photos = [
   {
     original: Gallery5,
     thumbnail: Gallery5,
+  },
+  {
+    original: Gallery17,
+    thumbnail: Gallery17,
+  },
+  {
+    original: Gallery18,
+    thumbnail: Gallery18,
+  },
+  {
+    original: Gallery19,
+    thumbnail: Gallery19,
   },
   {
     original: Gallery6,
@@ -62,10 +76,6 @@ export const photos = [
   {
     original: Gallery13,
     thumbnail: Gallery13,
-  },
-  {
-    original: Gallery14,
-    thumbnail: Gallery14,
   },
   {
     original: Gallery15,

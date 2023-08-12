@@ -43,7 +43,7 @@ useEffect(() => {
           </div>
           <div className="row">
             <div className="col-md-12">
-              <WishesCreate onCreate={createWish} />
+              <WishesCreate onCreate={createWish} onSubmit={fetchWishes} />
               <br></br>
               <WishesContainer wishes={wishes} />
               <br></br><br></br>

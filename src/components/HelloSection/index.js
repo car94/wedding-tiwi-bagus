@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react';
 
-import Bride from '@assets/images/p-tiwi-2.jpg';
-import Groom from '@assets/images/p-bagus-2.jpg';
+import Bride from '@assets/images/p-tiwi-3.jpg';
+import Groom from '@assets/images/p-bagus-3.jpg';
 import Bg from '@assets/images/foto-1.jpg'
 
 import { styWrapper } from './styles';

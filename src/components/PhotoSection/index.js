@@ -3,12 +3,13 @@ import ImageGallery from 'react-image-gallery';
 import 'react-image-gallery/styles/css/image-gallery.css';
 import { photos } from './photo-data';
 import { styWrapper } from './styles';
-import teaser from '../../assets/video/tiwi-prewedding.mp4';
+import teaser from '@assets/video/tiwi-prewedding.mp4';
+import thumb from '@assets/images/thumb.jpg';
 
 function PhotoSection() {
   const Video = () => {
     return (
-      <video loop muted autoPlay controls width="100%">
+      <video muted controls width="100%" poster={thumb}>
         <source src={teaser} type="video/mp4"
         />
         Sorry, your browser doesn't support videos.
