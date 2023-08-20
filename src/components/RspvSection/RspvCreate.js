@@ -52,6 +52,8 @@ function RspvCreate({ onCreate }) {
               <option value="0">Jumlah Tamu</option>
               <option value="1">1</option>
               <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
             </select>
             <label for="konfirmasi"><strong>Konfirmasi Kehadiran</strong></label>
             <select class="form-control" onChange={handleSetConfirmation}>
