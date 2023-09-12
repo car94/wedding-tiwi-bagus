@@ -1,6 +1,7 @@
 import React, { Fragment } from 'react';
 
 import WeddingInfoBox from './WeddingInfoBox';
+import WeddingInfoBox2 from './WeddingInfoBox2';
 import ButtonLive from './ButtonLive';
 import { styWrapper } from './styles';
 import CountTimerSection from '../CountTimerSection';
@@ -13,18 +14,19 @@ function WeddingSection() {
           <div className="row">
               <div className="col-md-10 col-md-offset-1">
                 <WeddingInfoBox
-                  title="Akad Nikah"
+                  title="Akad Nikah & Resepsi"
+                  desc="Telah dilaksanakan pada:"
                   time="07.30 WIB"
                   date="Minggu, 03 September 2023"
                   description="Gedung PGSD, Kampus 3 Universitas Negeri Malang <br/>Jl. Ir. Soekarno No.1, Kepanjen Lor, Kec. Kepanjenkidul, Kota Blitar,
                   Jawa Timur 66117"
                 />
-                <WeddingInfoBox
-                  title="Resepsi"
-                  time="12.00 - 14.00 WIB"
-                  date="Minggu, 03 September 2023"
-                  description="Gedung PGSD, Kampus 3 Universitas Negeri Malang <br/>Jl. Ir. Soekarno No.1, Kepanjen Lor, Kec. Kepanjenkidul, Kota Blitar,
-                  Jawa Timur 66117"
+                <WeddingInfoBox2
+                  title="Ngunduh Mantu"
+                  desc="Akan dilaksanakan pada:"
+                  time="09.00 WIB - Selesai"
+                  date="Minggu, 24 September 2023"
+                  description="Kediaman mempelai pria, Jl. Lematang 3 No. 180 RT. 50 RW. 15, Kel. Lebung Gajah, Kec. Sematang Borang, Kota Palembang"
                 />
               </div>
           </div>

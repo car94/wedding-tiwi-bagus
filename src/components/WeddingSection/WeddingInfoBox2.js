@@ -1,8 +1,8 @@
 import React from 'react';
 import { string } from 'prop-types';
-import ButtonMaps from './ButtonMaps';
+import ButtonMaps2 from './ButtonMaps2';
 
-function WeddingInfoBox({ title, desc, date, time, description }) {
+function WeddingInfoBox2({ title, desc, date, time, description }) {
   return (
     <div className="col-md-6 col-sm-6 text-center">
       <div className="event-wrap">
@@ -25,17 +25,17 @@ function WeddingInfoBox({ title, desc, date, time, description }) {
           </div>
         )}
         <br />
-        <ButtonMaps />
+        <ButtonMaps2 />
       </div>
     </div>
   );
 }
 
-WeddingInfoBox.propTypes = {
+WeddingInfoBox2.propTypes = {
   title: string.isRequired,
   date: string.isRequired,
   time: string.isRequired,
   description: string.isRequired,
 };
 
-export default React.memo(WeddingInfoBox);
+export default React.memo(WeddingInfoBox2);
