@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { styWrapper } from './styles';
 import mandiri from '@assets/images/mandiri.png';
-import btpn from '@assets/images/BTPN.png'
+import btpn from '@assets/images/logo-bank-sumsel.png'
 
 function AmplopSection() {
   const [successCopyMandiri, setSuccessCopyMandiri] = useState(false);
@@ -39,7 +39,26 @@ function AmplopSection() {
             <h5 style={{color: '#000'}}>
               Dengan tidak mengurangi rasa hormat, bagi anda yang ingin memberikan tanda kasih untuk kami, dapat melalui:
             </h5>
-            <img src={mandiri} alt="groom" className="img-responsive" loading="lazy" style={{width: '50%', marginLeft: '100px'}} />
+            <img src={btpn} alt="bank-sumsel-logo" className="img-responsive" loading="lazy" style={{width: '50%', marginLeft: '100px'}} />
+            <br></br>
+            <h5 style={{color: '#000'}}>
+              <strong>No. Rekening: 14809008066</strong>
+            </h5>
+            <h5 style={{color: '#000'}}>
+              <strong>BAGUS MUHAMMAD HUSEIN</strong>
+            </h5>
+            <div className="col-md-4 col-md-offset-4">
+              <button
+                type="button"
+                className="btn btn-default btn-xs"
+                style={{ marginLeft: '8px' }}
+                onClick={() => handleCopyBtpn(14809008066)}
+              >
+                {successCopyBtpn ? 'Tersalin' : 'Salin'}
+              </button>
+            </div>
+            <br></br>
+            <img src={mandiri} alt="bank-mandiri-logo" className="img-responsive" loading="lazy" style={{width: '50%', marginLeft: '100px'}} />
             <br></br>
             <h5 style={{color: '#000'}}>
               <strong>No. Rekening: 1710010404021</strong>
@@ -55,25 +74,6 @@ function AmplopSection() {
                 onClick={() => handleCopyMandiri(1710010404021)}
               >
                 {successCopyMandiri ? 'Tersalin' : 'Salin'}
-              </button>
-            </div>
-            <br></br>
-            <img src={btpn} alt="groom" className="img-responsive" loading="lazy" style={{width: '35%', marginLeft: '120px'}} />
-            <br></br>
-            <h5 style={{color: '#000'}}>
-              <strong>No. Rekening: 90350005219</strong>
-            </h5>
-            <h5 style={{color: '#000'}}>
-              <strong>BAGUS MUHAMMAD HUSEIN</strong>
-            </h5>
-            <div className="col-md-4 col-md-offset-4">
-              <button
-                type="button"
-                className="btn btn-default btn-xs"
-                style={{ marginLeft: '8px' }}
-                onClick={() => handleCopyBtpn(90350005219)}
-              >
-                {successCopyBtpn ? 'Tersalin' : 'Salin'}
               </button>
             </div>
           </div>

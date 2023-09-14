@@ -2,7 +2,7 @@ import React from 'react';
 import { string } from 'prop-types';
 import ButtonMaps2 from './ButtonMaps2';
 
-function WeddingInfoBox2({ title, desc, date, time, description }) {
+function WeddingInfoBox2({ title, desc, date, time, description, description2 }) {
   return (
     <div className="col-md-6 col-sm-6 text-center">
       <div className="event-wrap">
@@ -21,7 +21,10 @@ function WeddingInfoBox2({ title, desc, date, time, description }) {
         {description && (
           <div className="event-col">
             <i className="icon-location-pin"></i>
-            <span dangerouslySetInnerHTML={{ __html: description }} style={{color: 'black'}} />
+            <span style={{color: 'black'}}>
+              {description} <br></br>
+              {description2}
+            </span>
           </div>
         )}
         <br />

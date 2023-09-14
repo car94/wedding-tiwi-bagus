@@ -8,7 +8,7 @@ function FooterSection() {
           <div className="row copyright">
             <div className="col-md-12 text-center">
               <p>
-                <small className="block">&copy; 2023 Tiwi & Bagus Wedding. All Rights Reserved.</small>
+                <small className="block">&copy; 2023 Bagus & Tiwi Wedding. All Rights Reserved.</small>
                 <small className="block">
                   Wedding Invitation created by{' '}
                   <a href="#" target="_blank" rel="noreferrer">

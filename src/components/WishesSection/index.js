@@ -55,7 +55,7 @@ useEffect(() => {
           <div className="container">
             <div className="row">
               <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
-                <h3 className="main-font">With love, Tiwi & Bagus</h3>
+                <h3 className="main-font">With love, Bagus & Tiwi</h3>
               </div>
             </div>
           </div>
