@@ -16,7 +16,7 @@ function WeddingSection() {
                   title="Akad Nikah & Resepsi"
                   desc="Telah dilaksanakan pada:"
                   time="Minggu, 3 September 2023"
-                  location="Blitar, Jawa Timur"
+                  location="di Blitar, Jawa Timur"
                 />
                 <WeddingInfoBox2
                   title="Ngunduh Mantu"
