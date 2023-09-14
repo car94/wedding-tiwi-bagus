@@ -7,7 +7,7 @@ function WeddingInfoBox({ title, desc, location, time, description }) {
       <div className="event-wrap">
         <h2 style={{ fontFamily: 'Pacifico', fontSize: '2.5rem' }}>{title}</h2>
           <span style={{color: 'black', fontSize: '1.5rem'}}>{desc}</span>
-          <span style={{color: 'black', fontSize: '2rem', marginTop: '10px' }}>{time}</span>
+          <span style={{color: 'black', fontSize: '1.75rem', marginTop: '10px' }}>{time}</span>
           <span style={{color: 'black', fontSize: '2rem', marginTop: '10px' }}>{location}</span>
         {description && (
           <div className="event-col">
