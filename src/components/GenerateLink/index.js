@@ -69,7 +69,7 @@ function GenerateLink() {
 
     if (type === PERSONAL) {
       const newName = name.replace(/ /g, '+');
-      const URL = `https://tiwi-bagus.netlify.app?to=${newName}`;
+      const URL = `https://bagus-tiwi.netlify.app?to=${newName}`;
       
       return (
         <div className="col-md-4 col-md-offset-4">
@@ -107,7 +107,7 @@ function GenerateLink() {
               <tbody>
                 {data.map((d, index) => {
                   const newName = d.name.replace(/ /g, '+');
-                  const mapURL = `https://tiwi-bagus.netlify.app?to=${newName}`;
+                  const mapURL = `https://bagus-tiwi.netlify.app?to=${newName}`;
                   return (
                     <tr>
                       <td>{index + 1}</td>
