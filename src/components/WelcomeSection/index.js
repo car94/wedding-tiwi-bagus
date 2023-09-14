@@ -67,7 +67,7 @@ function WelcomeSection({ guestName, isInvitation, isAnonymGuest, codeLink, onCl
           <div className="row" css={styWrapper}>
             <div className="col-md-8 col-md-offset-2 text-center">
               <h4 className="sub-title">THE WEDDING OF</h4>
-              <h1 className="title">Tiwi &amp; Bagus</h1>
+              <h1 className="title">Bagus &amp; Tiwi</h1>
               <div className={isAnonymGuest ? 'margin__bottom' : ''}>
                 
               </div>
