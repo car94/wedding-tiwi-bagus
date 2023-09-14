@@ -22,14 +22,14 @@ function HelloSection() {
             </div>
           </div>
           <div className="couple-wrap">
-            <div className="couple-half">
-              <div className="groom">
-                <img src={Bride} alt="bride" className="img-responsive" loading="lazy" />
+          <div className="couple-half">
+              <div className="bride">
+                <img src={Groom} alt="groom" className="img-responsive" loading="lazy" />
               </div>
-              <div className="desc-groom">
-                <h4 className="main-font">R.M. Pertiwi Putri Gunawan, S.T., M.Sc.</h4>
-                <p className="parent-name parent-name__top">
-                  Putri Kedua Bapak Adi Gunawan Wibisono <br />& Ibu dr. Yudia Supradini (Almh.)
+              <div className="desc-bride">
+                <h4 className="main-font">Bagus Muhammad Husein, S.T.</h4>
+                <p className="parent-name">
+                  Putra Ketiga Bapak Mulyadi Rajo Intan <br />& Ibu Yulizar Yasin
                 </p>
               </div>
             </div>
@@ -40,13 +40,13 @@ function HelloSection() {
               <i>&</i>
             </div>
             <div className="couple-half">
-              <div className="bride">
-                <img src={Groom} alt="groom" className="img-responsive" loading="lazy" />
+              <div className="groom">
+                <img src={Bride} alt="bride" className="img-responsive" loading="lazy" />
               </div>
-              <div className="desc-bride">
-                <h4 className="main-font">Bagus Muhammad Husein, S.T.</h4>
-                <p className="parent-name">
-                  Putra Ketiga Bapak Mulyadi Rajo Intan <br />& Ibu Yulizar Yasin
+              <div className="desc-groom">
+                <h4 className="main-font">R.M. Pertiwi Putri Gunawan, S.T., M.Sc.</h4>
+                <p className="parent-name parent-name__top">
+                  Putri Kedua Bapak Adi Gunawan Wibisono <br />& Ibu dr. Yudia Supradini (Almh.)
                 </p>
               </div>
             </div>

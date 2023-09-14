@@ -7,6 +7,6 @@ export const GOOGLE_MAPS_LINK = `https://www.google.com/maps/place/Gedung+PGSD/@
 /**
  * Wedding time
  */
-export const EPOCH_START_EVENT = 1693726200;
-export const EPOCH_END_EVENT = 1693726200;
-export const UTC_WEDDING_TIME = '2023-09-03:04:00:00Z';
+export const EPOCH_START_EVENT = 1695546000;
+export const EPOCH_END_EVENT = 1695546000;
+export const UTC_WEDDING_TIME = '2023-09-24:09:00:00Z';

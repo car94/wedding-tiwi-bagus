@@ -2,30 +2,19 @@ import React from 'react';
 import { string } from 'prop-types';
 import ButtonMaps from './ButtonMaps';
 
-function WeddingInfoBox({ title, desc, date, time, description }) {
+function WeddingInfoBox({ title, desc, location, description }) {
   return (
     <div className="col-md-6 col-sm-6 text-center">
       <div className="event-wrap">
         <h2 style={{ fontFamily: 'Pacifico', fontSize: '2.5rem' }}>{title}</h2>
-        <div className="event-col">
-          <span style={{color: 'black'}}>{desc}</span>
-        </div>
-        <div className="event-col">
-          <i className="icon-clock"></i>
-          <span style={{color: 'black'}}>{time}</span>
-        </div>
-        <div className="event-col">
-          <i className="icon-calendar"></i>
-          <span style={{color: 'black'}}>{date}</span>
-        </div>
+          <span style={{color: 'black', fontSize: '1.5rem'}}>{desc}</span>
+          <span style={{color: 'black', fontSize: '2rem', marginTop: '10px' }}>{location}</span>
         {description && (
           <div className="event-col">
             <i className="icon-location-pin"></i>
             <span dangerouslySetInnerHTML={{ __html: description }} style={{color: 'black'}} />
           </div>
         )}
-        <br />
-        <ButtonMaps />
       </div>
     </div>
   );
